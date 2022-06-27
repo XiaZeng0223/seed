@@ -1,0 +1,2500 @@
+seed: 123; # of shots: 2; index of run: 1
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1749
+seed: 123; # of shots: 2; index of run: 2
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 123; # of shots: 2; index of run: 3
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3343 F1-macro: 0.1767
+seed: 123; # of shots: 2; index of run: 4
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 123; # of shots: 2; index of run: 5
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 123; # of shots: 4; index of run: 1
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 123; # of shots: 4; index of run: 2
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3097 F1-macro: 0.2409
+seed: 123; # of shots: 4; index of run: 3
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 123; # of shots: 4; index of run: 4
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3282 F1-macro: 0.1747
+seed: 123; # of shots: 4; index of run: 5
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 123; # of shots: 6; index of run: 1
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 123; # of shots: 6; index of run: 2
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.331 F1-macro: 0.1675
+seed: 123; # of shots: 6; index of run: 3
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3336 F1-macro: 0.2801
+seed: 123; # of shots: 6; index of run: 4
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3425 F1-macro: 0.2072
+seed: 123; # of shots: 6; index of run: 5
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3514 F1-macro: 0.2727
+seed: 123; # of shots: 8; index of run: 1
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3708 F1-macro: 0.2962
+seed: 123; # of shots: 8; index of run: 2
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3329 F1-macro: 0.1667
+seed: 123; # of shots: 8; index of run: 3
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3324 F1-macro: 0.1989
+seed: 123; # of shots: 8; index of run: 4
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3546 F1-macro: 0.3509
+seed: 123; # of shots: 8; index of run: 5
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 123; # of shots: 10; index of run: 1
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3331 F1-macro: 0.1689
+seed: 123; # of shots: 10; index of run: 2
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 123; # of shots: 10; index of run: 3
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 123; # of shots: 10; index of run: 4
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 123; # of shots: 10; index of run: 5
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3577 F1-macro: 0.2794
+seed: 123; # of shots: 20; index of run: 1
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.485 F1-macro: 0.4351
+seed: 123; # of shots: 20; index of run: 2
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4915 F1-macro: 0.4653
+seed: 123; # of shots: 20; index of run: 3
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.3799 F1-macro: 0.3298
+seed: 123; # of shots: 20; index of run: 4
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.381 F1-macro: 0.2672
+seed: 123; # of shots: 20; index of run: 5
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.325 F1-macro: 0.2288
+seed: 123; # of shots: 30; index of run: 1
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5348 F1-macro: 0.5208
+seed: 123; # of shots: 30; index of run: 2
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5155 F1-macro: 0.5106
+seed: 123; # of shots: 30; index of run: 3
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5205 F1-macro: 0.491
+seed: 123; # of shots: 30; index of run: 4
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.3857 F1-macro: 0.2763
+seed: 123; # of shots: 30; index of run: 5
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4546 F1-macro: 0.4338
+seed: 123; # of shots: 40; index of run: 1
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5523 F1-macro: 0.5524
+seed: 123; # of shots: 40; index of run: 2
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5748 F1-macro: 0.5437
+seed: 123; # of shots: 40; index of run: 3
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5461 F1-macro: 0.5398
+seed: 123; # of shots: 40; index of run: 4
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.568 F1-macro: 0.5662
+seed: 123; # of shots: 40; index of run: 5
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5049 F1-macro: 0.5086
+seed: 123; # of shots: 50; index of run: 1
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6896 F1-macro: 0.6773
+seed: 123; # of shots: 50; index of run: 2
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6059 F1-macro: 0.5972
+seed: 123; # of shots: 50; index of run: 3
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5741 F1-macro: 0.5685
+seed: 123; # of shots: 50; index of run: 4
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5677 F1-macro: 0.505
+seed: 123; # of shots: 50; index of run: 5
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6244 F1-macro: 0.6
+seed: 123; # of shots: 100; index of run: 1
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.783 F1-macro: 0.7811
+seed: 123; # of shots: 100; index of run: 2
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6272 F1-macro: 0.6218
+seed: 123; # of shots: 100; index of run: 3
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.8097 F1-macro: 0.8098
+seed: 123; # of shots: 100; index of run: 4
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7739 F1-macro: 0.7711
+seed: 123; # of shots: 100; index of run: 5
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.8255 F1-macro: 0.8234
+seed: 124; # of shots: 2; index of run: 1
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 2; index of run: 2
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 2; index of run: 3
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 2; index of run: 4
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 2; index of run: 5
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 4; index of run: 1
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 4; index of run: 2
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3404 F1-macro: 0.2702
+seed: 124; # of shots: 4; index of run: 3
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 4; index of run: 4
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 4; index of run: 5
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 6; index of run: 1
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3325 F1-macro: 0.1671
+seed: 124; # of shots: 6; index of run: 2
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 6; index of run: 3
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3379 F1-macro: 0.2656
+seed: 124; # of shots: 6; index of run: 4
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 6; index of run: 5
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3323 F1-macro: 0.1778
+seed: 124; # of shots: 8; index of run: 1
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3401 F1-macro: 0.1847
+seed: 124; # of shots: 8; index of run: 2
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 8; index of run: 3
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3363 F1-macro: 0.2161
+seed: 124; # of shots: 8; index of run: 4
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 8; index of run: 5
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 10; index of run: 1
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 10; index of run: 2
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 10; index of run: 3
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 10; index of run: 4
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3328 F1-macro: 0.1734
+seed: 124; # of shots: 10; index of run: 5
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 20; index of run: 1
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4712 F1-macro: 0.4291
+seed: 124; # of shots: 20; index of run: 2
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4589 F1-macro: 0.4139
+seed: 124; # of shots: 20; index of run: 3
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4256 F1-macro: 0.4088
+seed: 124; # of shots: 20; index of run: 4
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4948 F1-macro: 0.4516
+seed: 124; # of shots: 20; index of run: 5
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4797 F1-macro: 0.3911
+seed: 124; # of shots: 30; index of run: 1
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5418 F1-macro: 0.5024
+seed: 124; # of shots: 30; index of run: 2
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4965 F1-macro: 0.4781
+seed: 124; # of shots: 30; index of run: 3
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5171 F1-macro: 0.5088
+seed: 124; # of shots: 30; index of run: 4
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5116 F1-macro: 0.4884
+seed: 124; # of shots: 30; index of run: 5
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4785 F1-macro: 0.4866
+seed: 124; # of shots: 40; index of run: 1
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.4512 F1-macro: 0.4057
+seed: 124; # of shots: 40; index of run: 2
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.6468 F1-macro: 0.6167
+seed: 124; # of shots: 40; index of run: 3
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.4955 F1-macro: 0.448
+seed: 124; # of shots: 40; index of run: 4
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.6162 F1-macro: 0.5751
+seed: 124; # of shots: 40; index of run: 5
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5334 F1-macro: 0.5427
+seed: 124; # of shots: 50; index of run: 1
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5935 F1-macro: 0.5733
+seed: 124; # of shots: 50; index of run: 2
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6223 F1-macro: 0.598
+seed: 124; # of shots: 50; index of run: 3
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5747 F1-macro: 0.5765
+seed: 124; # of shots: 50; index of run: 4
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6348 F1-macro: 0.624
+seed: 124; # of shots: 50; index of run: 5
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5835 F1-macro: 0.5607
+seed: 124; # of shots: 100; index of run: 1
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6886 F1-macro: 0.6855
+seed: 124; # of shots: 100; index of run: 2
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7849 F1-macro: 0.7834
+seed: 124; # of shots: 100; index of run: 3
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6259 F1-macro: 0.6174
+seed: 124; # of shots: 100; index of run: 4
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 100; index of run: 5
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6839 F1-macro: 0.6824
+seed: 125; # of shots: 2; index of run: 1
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3373 F1-macro: 0.2034
+seed: 125; # of shots: 2; index of run: 2
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 2; index of run: 3
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 2; index of run: 4
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 2; index of run: 5
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3311 F1-macro: 0.1924
+seed: 125; # of shots: 4; index of run: 1
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3286 F1-macro: 0.1748
+seed: 125; # of shots: 4; index of run: 2
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 4; index of run: 3
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.334 F1-macro: 0.1704
+seed: 125; # of shots: 4; index of run: 4
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3329 F1-macro: 0.1693
+seed: 125; # of shots: 4; index of run: 5
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 6; index of run: 1
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 6; index of run: 2
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 6; index of run: 3
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 6; index of run: 4
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 6; index of run: 5
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 8; index of run: 1
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 8; index of run: 2
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1697
+seed: 125; # of shots: 8; index of run: 3
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3329 F1-macro: 0.1666
+seed: 125; # of shots: 8; index of run: 4
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.337 F1-macro: 0.2166
+seed: 125; # of shots: 8; index of run: 5
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 10; index of run: 1
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 10; index of run: 2
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 10; index of run: 3
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 10; index of run: 4
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3324 F1-macro: 0.2618
+seed: 125; # of shots: 10; index of run: 5
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1668
+seed: 125; # of shots: 20; index of run: 1
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.3465 F1-macro: 0.2065
+seed: 125; # of shots: 20; index of run: 2
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4709 F1-macro: 0.465
+seed: 125; # of shots: 20; index of run: 3
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.5002 F1-macro: 0.459
+seed: 125; # of shots: 20; index of run: 4
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.357 F1-macro: 0.2722
+seed: 125; # of shots: 20; index of run: 5
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 30; index of run: 1
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5029 F1-macro: 0.5105
+seed: 125; # of shots: 30; index of run: 2
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5854 F1-macro: 0.586
+seed: 125; # of shots: 30; index of run: 3
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5402 F1-macro: 0.5438
+seed: 125; # of shots: 30; index of run: 4
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.529 F1-macro: 0.5061
+seed: 125; # of shots: 30; index of run: 5
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5509 F1-macro: 0.5553
+seed: 125; # of shots: 40; index of run: 1
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.4901 F1-macro: 0.3991
+seed: 125; # of shots: 40; index of run: 2
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5415 F1-macro: 0.5051
+seed: 125; # of shots: 40; index of run: 3
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.6185 F1-macro: 0.6107
+seed: 125; # of shots: 40; index of run: 4
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5977 F1-macro: 0.5749
+seed: 125; # of shots: 40; index of run: 5
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.7058 F1-macro: 0.7049
+seed: 125; # of shots: 50; index of run: 1
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.65 F1-macro: 0.6465
+seed: 125; # of shots: 50; index of run: 2
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.3338 F1-macro: 0.1771
+seed: 125; # of shots: 50; index of run: 3
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5777 F1-macro: 0.5852
+seed: 125; # of shots: 50; index of run: 4
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5762 F1-macro: 0.5617
+seed: 125; # of shots: 50; index of run: 5
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6789 F1-macro: 0.6773
+seed: 125; # of shots: 100; index of run: 1
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7607 F1-macro: 0.7591
+seed: 125; # of shots: 100; index of run: 2
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6942 F1-macro: 0.6867
+seed: 125; # of shots: 100; index of run: 3
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7515 F1-macro: 0.7484
+seed: 125; # of shots: 100; index of run: 4
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7564 F1-macro: 0.7513
+seed: 125; # of shots: 100; index of run: 5
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6887 F1-macro: 0.6875
+seed: 126; # of shots: 2; index of run: 1
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3328 F1-macro: 0.1699
+seed: 126; # of shots: 2; index of run: 2
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 126; # of shots: 2; index of run: 3
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 126; # of shots: 2; index of run: 4
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 126; # of shots: 2; index of run: 5
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 126; # of shots: 4; index of run: 1
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1668
+seed: 126; # of shots: 4; index of run: 2
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 126; # of shots: 4; index of run: 3
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3317 F1-macro: 0.2099
+seed: 126; # of shots: 4; index of run: 4
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 126; # of shots: 4; index of run: 5
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 126; # of shots: 6; index of run: 1
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 126; # of shots: 6; index of run: 2
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3382 F1-macro: 0.2286
+seed: 126; # of shots: 6; index of run: 3
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3331 F1-macro: 0.1679
+seed: 126; # of shots: 6; index of run: 4
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3417 F1-macro: 0.2126
+seed: 126; # of shots: 6; index of run: 5
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3341 F1-macro: 0.1694
+seed: 126; # of shots: 8; index of run: 1
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 126; # of shots: 8; index of run: 2
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1671
+seed: 126; # of shots: 8; index of run: 3
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 126; # of shots: 8; index of run: 4
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3325 F1-macro: 0.1696
+seed: 126; # of shots: 8; index of run: 5
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1669
+seed: 126; # of shots: 10; index of run: 1
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3614 F1-macro: 0.2582
+seed: 126; # of shots: 10; index of run: 2
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 126; # of shots: 10; index of run: 3
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3321 F1-macro: 0.2228
+seed: 126; # of shots: 10; index of run: 4
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 126; # of shots: 10; index of run: 5
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.328 F1-macro: 0.178
+seed: 126; # of shots: 20; index of run: 1
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.3419 F1-macro: 0.274
+seed: 126; # of shots: 20; index of run: 2
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4587 F1-macro: 0.4416
+seed: 126; # of shots: 20; index of run: 3
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4051 F1-macro: 0.3055
+seed: 126; # of shots: 20; index of run: 4
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4188 F1-macro: 0.4008
+seed: 126; # of shots: 20; index of run: 5
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.3608 F1-macro: 0.227
+seed: 126; # of shots: 30; index of run: 1
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4078 F1-macro: 0.3935
+seed: 126; # of shots: 30; index of run: 2
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5961 F1-macro: 0.5773
+seed: 126; # of shots: 30; index of run: 3
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5623 F1-macro: 0.5452
+seed: 126; # of shots: 30; index of run: 4
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.3456 F1-macro: 0.2069
+seed: 126; # of shots: 30; index of run: 5
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5557 F1-macro: 0.5326
+seed: 126; # of shots: 40; index of run: 1
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.6095 F1-macro: 0.5995
+seed: 126; # of shots: 40; index of run: 2
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.6564 F1-macro: 0.6024
+seed: 126; # of shots: 40; index of run: 3
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.581 F1-macro: 0.5731
+seed: 126; # of shots: 40; index of run: 4
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5716 F1-macro: 0.5736
+seed: 126; # of shots: 40; index of run: 5
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.6796 F1-macro: 0.6523
+seed: 126; # of shots: 50; index of run: 1
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6294 F1-macro: 0.6055
+seed: 126; # of shots: 50; index of run: 2
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6004 F1-macro: 0.5809
+seed: 126; # of shots: 50; index of run: 3
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6465 F1-macro: 0.6488
+seed: 126; # of shots: 50; index of run: 4
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5873 F1-macro: 0.5916
+seed: 126; # of shots: 50; index of run: 5
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6839 F1-macro: 0.6818
+seed: 126; # of shots: 100; index of run: 1
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7697 F1-macro: 0.7707
+seed: 126; # of shots: 100; index of run: 2
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6853 F1-macro: 0.677
+seed: 126; # of shots: 100; index of run: 3
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.8136 F1-macro: 0.8166
+seed: 126; # of shots: 100; index of run: 4
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7327 F1-macro: 0.7192
+seed: 126; # of shots: 100; index of run: 5
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.675 F1-macro: 0.6538
+seed: 127; # of shots: 2; index of run: 1
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 2; index of run: 2
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 2; index of run: 3
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 2; index of run: 4
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3369 F1-macro: 0.1777
+seed: 127; # of shots: 2; index of run: 5
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3384 F1-macro: 0.2205
+seed: 127; # of shots: 4; index of run: 1
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 4; index of run: 2
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3325 F1-macro: 0.1685
+seed: 127; # of shots: 4; index of run: 3
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.333 F1-macro: 0.1666
+seed: 127; # of shots: 4; index of run: 4
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3345 F1-macro: 0.1735
+seed: 127; # of shots: 4; index of run: 5
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 6; index of run: 1
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 6; index of run: 2
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3334 F1-macro: 0.1672
+seed: 127; # of shots: 6; index of run: 3
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 6; index of run: 4
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 6; index of run: 5
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 8; index of run: 1
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3094 F1-macro: 0.2303
+seed: 127; # of shots: 8; index of run: 2
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 8; index of run: 3
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3323 F1-macro: 0.2259
+seed: 127; # of shots: 8; index of run: 4
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 8; index of run: 5
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 10; index of run: 1
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3147 F1-macro: 0.2522
+seed: 127; # of shots: 10; index of run: 2
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3436 F1-macro: 0.2443
+seed: 127; # of shots: 10; index of run: 3
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 10; index of run: 4
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3282 F1-macro: 0.2458
+seed: 127; # of shots: 10; index of run: 5
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 20; index of run: 1
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4541 F1-macro: 0.3849
+seed: 127; # of shots: 20; index of run: 2
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.3753 F1-macro: 0.3032
+seed: 127; # of shots: 20; index of run: 3
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4399 F1-macro: 0.4479
+seed: 127; # of shots: 20; index of run: 4
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.3352 F1-macro: 0.1711
+seed: 127; # of shots: 20; index of run: 5
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4146 F1-macro: 0.4015
+seed: 127; # of shots: 30; index of run: 1
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5034 F1-macro: 0.5024
+seed: 127; # of shots: 30; index of run: 2
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5009 F1-macro: 0.4847
+seed: 127; # of shots: 30; index of run: 3
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.596 F1-macro: 0.5874
+seed: 127; # of shots: 30; index of run: 4
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4918 F1-macro: 0.4845
+seed: 127; # of shots: 30; index of run: 5
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5228 F1-macro: 0.5284
+seed: 127; # of shots: 40; index of run: 1
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.6333 F1-macro: 0.6353
+seed: 127; # of shots: 40; index of run: 2
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.4691 F1-macro: 0.4444
+seed: 127; # of shots: 40; index of run: 3
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5807 F1-macro: 0.568
+seed: 127; # of shots: 40; index of run: 4
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5858 F1-macro: 0.5753
+seed: 127; # of shots: 40; index of run: 5
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.6044 F1-macro: 0.5992
+seed: 127; # of shots: 50; index of run: 1
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5679 F1-macro: 0.5789
+seed: 127; # of shots: 50; index of run: 2
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6292 F1-macro: 0.6219
+seed: 127; # of shots: 50; index of run: 3
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6207 F1-macro: 0.5897
+seed: 127; # of shots: 50; index of run: 4
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.4734 F1-macro: 0.4844
+seed: 127; # of shots: 50; index of run: 5
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.4482 F1-macro: 0.4281
+seed: 127; # of shots: 100; index of run: 1
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6208 F1-macro: 0.6049
+seed: 127; # of shots: 100; index of run: 2
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6344 F1-macro: 0.6156
+seed: 127; # of shots: 100; index of run: 3
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7976 F1-macro: 0.7901
+seed: 127; # of shots: 100; index of run: 4
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.8241 F1-macro: 0.8248
+seed: 127; # of shots: 100; index of run: 5
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7622 F1-macro: 0.7365
+seed: 128; # of shots: 2; index of run: 1
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 128; # of shots: 2; index of run: 2
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3326 F1-macro: 0.1932
+seed: 128; # of shots: 2; index of run: 3
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 128; # of shots: 2; index of run: 4
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3332 F1-macro: 0.1666
+seed: 128; # of shots: 2; index of run: 5
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3216 F1-macro: 0.1932
+seed: 128; # of shots: 4; index of run: 1
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.333 F1-macro: 0.1666
+seed: 128; # of shots: 4; index of run: 2
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3369 F1-macro: 0.1809
+seed: 128; # of shots: 4; index of run: 3
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.334 F1-macro: 0.1721
+seed: 128; # of shots: 4; index of run: 4
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3298 F1-macro: 0.1897
+seed: 128; # of shots: 4; index of run: 5
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 128; # of shots: 6; index of run: 1
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3208 F1-macro: 0.1961
+seed: 128; # of shots: 6; index of run: 2
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 128; # of shots: 6; index of run: 3
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3284 F1-macro: 0.1941
+seed: 128; # of shots: 6; index of run: 4
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 128; # of shots: 6; index of run: 5
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 128; # of shots: 8; index of run: 1
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 128; # of shots: 8; index of run: 2
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 128; # of shots: 8; index of run: 3
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3317 F1-macro: 0.1689
+seed: 128; # of shots: 8; index of run: 4
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 128; # of shots: 8; index of run: 5
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 128; # of shots: 10; index of run: 1
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3273 F1-macro: 0.2337
+seed: 128; # of shots: 10; index of run: 2
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3375 F1-macro: 0.2531
+seed: 128; # of shots: 10; index of run: 3
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 128; # of shots: 10; index of run: 4
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3244 F1-macro: 0.1964
+seed: 128; # of shots: 10; index of run: 5
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3532 F1-macro: 0.2736
+seed: 128; # of shots: 20; index of run: 1
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4443 F1-macro: 0.428
+seed: 128; # of shots: 20; index of run: 2
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.3647 F1-macro: 0.3145
+seed: 128; # of shots: 20; index of run: 3
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.408 F1-macro: 0.3333
+seed: 128; # of shots: 20; index of run: 4
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.3333 F1-macro: 0.1667
+seed: 128; # of shots: 20; index of run: 5
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.3473 F1-macro: 0.2253
+seed: 128; # of shots: 30; index of run: 1
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4292 F1-macro: 0.3811
+seed: 128; # of shots: 30; index of run: 2
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4076 F1-macro: 0.3801
+seed: 128; # of shots: 30; index of run: 3
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.46 F1-macro: 0.4643
+seed: 128; # of shots: 30; index of run: 4
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.3577 F1-macro: 0.276
+seed: 128; # of shots: 30; index of run: 5
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4764 F1-macro: 0.475
+seed: 128; # of shots: 40; index of run: 1
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.7016 F1-macro: 0.6944
+seed: 128; # of shots: 40; index of run: 2
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5674 F1-macro: 0.5699
+seed: 128; # of shots: 40; index of run: 3
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5507 F1-macro: 0.4972
+seed: 128; # of shots: 40; index of run: 4
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5099 F1-macro: 0.5076
+seed: 128; # of shots: 40; index of run: 5
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5632 F1-macro: 0.5394
+seed: 128; # of shots: 50; index of run: 1
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5834 F1-macro: 0.5726
+seed: 128; # of shots: 50; index of run: 2
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5301 F1-macro: 0.5288
+seed: 128; # of shots: 50; index of run: 3
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5959 F1-macro: 0.5473
+seed: 128; # of shots: 50; index of run: 4
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6162 F1-macro: 0.5985
+seed: 128; # of shots: 50; index of run: 5
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6402 F1-macro: 0.624
+seed: 128; # of shots: 100; index of run: 1
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7186 F1-macro: 0.7195
+seed: 128; # of shots: 100; index of run: 2
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7321 F1-macro: 0.7321
+seed: 128; # of shots: 100; index of run: 3
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7608 F1-macro: 0.764
+seed: 128; # of shots: 100; index of run: 4
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.68 F1-macro: 0.6693
+seed: 128; # of shots: 100; index of run: 5
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 2; index of run: 1
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 2; index of run: 2
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3318 F1-macro: 0.1715
+seed: 129; # of shots: 2; index of run: 3
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 2; index of run: 4
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3346 F1-macro: 0.1712
+seed: 129; # of shots: 2; index of run: 5
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3282 F1-macro: 0.1956
+seed: 129; # of shots: 4; index of run: 1
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 4; index of run: 2
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3303 F1-macro: 0.2098
+seed: 129; # of shots: 4; index of run: 3
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3468 F1-macro: 0.2057
+seed: 129; # of shots: 4; index of run: 4
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3316 F1-macro: 0.169
+seed: 129; # of shots: 4; index of run: 5
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3248 F1-macro: 0.2367
+seed: 129; # of shots: 6; index of run: 1
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 6; index of run: 2
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 6; index of run: 3
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 6; index of run: 4
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 6; index of run: 5
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 8; index of run: 1
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 8; index of run: 2
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3334 F1-macro: 0.1669
+seed: 129; # of shots: 8; index of run: 3
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 8; index of run: 4
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 8; index of run: 5
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3331 F1-macro: 0.1675
+seed: 129; # of shots: 10; index of run: 1
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3337 F1-macro: 0.1675
+seed: 129; # of shots: 10; index of run: 2
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3239 F1-macro: 0.1933
+seed: 129; # of shots: 10; index of run: 3
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 10; index of run: 4
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 10; index of run: 5
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 129; # of shots: 20; index of run: 1
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4822 F1-macro: 0.4204
+seed: 129; # of shots: 20; index of run: 2
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.5133 F1-macro: 0.5032
+seed: 129; # of shots: 20; index of run: 3
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4546 F1-macro: 0.4021
+seed: 129; # of shots: 20; index of run: 4
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.3334 F1-macro: 0.1669
+seed: 129; # of shots: 20; index of run: 5
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4418 F1-macro: 0.4407
+seed: 129; # of shots: 30; index of run: 1
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.532 F1-macro: 0.5246
+seed: 129; # of shots: 30; index of run: 2
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5686 F1-macro: 0.5768
+seed: 129; # of shots: 30; index of run: 3
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.538 F1-macro: 0.5209
+seed: 129; # of shots: 30; index of run: 4
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4849 F1-macro: 0.4916
+seed: 129; # of shots: 30; index of run: 5
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5371 F1-macro: 0.5049
+seed: 129; # of shots: 40; index of run: 1
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5144 F1-macro: 0.5157
+seed: 129; # of shots: 40; index of run: 2
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5807 F1-macro: 0.5803
+seed: 129; # of shots: 40; index of run: 3
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5984 F1-macro: 0.5958
+seed: 129; # of shots: 40; index of run: 4
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5933 F1-macro: 0.584
+seed: 129; # of shots: 40; index of run: 5
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5271 F1-macro: 0.5292
+seed: 129; # of shots: 50; index of run: 1
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6516 F1-macro: 0.6427
+seed: 129; # of shots: 50; index of run: 2
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5739 F1-macro: 0.5764
+seed: 129; # of shots: 50; index of run: 3
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5454 F1-macro: 0.5205
+seed: 129; # of shots: 50; index of run: 4
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6049 F1-macro: 0.6009
+seed: 129; # of shots: 50; index of run: 5
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5972 F1-macro: 0.5996
+seed: 129; # of shots: 100; index of run: 1
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7089 F1-macro: 0.7052
+seed: 129; # of shots: 100; index of run: 2
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7862 F1-macro: 0.781
+seed: 129; # of shots: 100; index of run: 3
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6928 F1-macro: 0.6896
+seed: 129; # of shots: 100; index of run: 4
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.5486 F1-macro: 0.559
+seed: 129; # of shots: 100; index of run: 5
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6474 F1-macro: 0.6317
+seed: 130; # of shots: 2; index of run: 1
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3329 F1-macro: 0.1667
+seed: 130; # of shots: 2; index of run: 2
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3331 F1-macro: 0.1672
+seed: 130; # of shots: 2; index of run: 3
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 2; index of run: 4
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 2; index of run: 5
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3307 F1-macro: 0.1739
+seed: 130; # of shots: 4; index of run: 1
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3347 F1-macro: 0.1862
+seed: 130; # of shots: 4; index of run: 2
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 4; index of run: 3
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3638 F1-macro: 0.2766
+seed: 130; # of shots: 4; index of run: 4
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 4; index of run: 5
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 6; index of run: 1
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 6; index of run: 2
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 6; index of run: 3
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 6; index of run: 4
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 6; index of run: 5
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 8; index of run: 1
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.335 F1-macro: 0.209
+seed: 130; # of shots: 8; index of run: 2
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3326 F1-macro: 0.1695
+seed: 130; # of shots: 8; index of run: 3
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 8; index of run: 4
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 8; index of run: 5
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 10; index of run: 1
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 10; index of run: 2
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 10; index of run: 3
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1668
+seed: 130; # of shots: 10; index of run: 4
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 10; index of run: 5
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 20; index of run: 1
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 20; index of run: 2
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4785 F1-macro: 0.454
+seed: 130; # of shots: 20; index of run: 3
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4725 F1-macro: 0.4556
+seed: 130; # of shots: 20; index of run: 4
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4223 F1-macro: 0.3447
+seed: 130; # of shots: 20; index of run: 5
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.482 F1-macro: 0.4467
+seed: 130; # of shots: 30; index of run: 1
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5204 F1-macro: 0.5213
+seed: 130; # of shots: 30; index of run: 2
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5414 F1-macro: 0.486
+seed: 130; # of shots: 30; index of run: 3
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4266 F1-macro: 0.4199
+seed: 130; # of shots: 30; index of run: 4
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4155 F1-macro: 0.3642
+seed: 130; # of shots: 30; index of run: 5
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5517 F1-macro: 0.5331
+seed: 130; # of shots: 40; index of run: 1
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5665 F1-macro: 0.5385
+seed: 130; # of shots: 40; index of run: 2
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5354 F1-macro: 0.4964
+seed: 130; # of shots: 40; index of run: 3
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5502 F1-macro: 0.5281
+seed: 130; # of shots: 40; index of run: 4
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.6568 F1-macro: 0.6481
+seed: 130; # of shots: 40; index of run: 5
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.507 F1-macro: 0.5081
+seed: 130; # of shots: 50; index of run: 1
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5635 F1-macro: 0.5219
+seed: 130; # of shots: 50; index of run: 2
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6644 F1-macro: 0.6209
+seed: 130; # of shots: 50; index of run: 3
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5348 F1-macro: 0.5406
+seed: 130; # of shots: 50; index of run: 4
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.347 F1-macro: 0.2047
+seed: 130; # of shots: 50; index of run: 5
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5811 F1-macro: 0.5768
+seed: 130; # of shots: 100; index of run: 1
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.5783 F1-macro: 0.5826
+seed: 130; # of shots: 100; index of run: 2
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6634 F1-macro: 0.6647
+seed: 130; # of shots: 100; index of run: 3
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6696 F1-macro: 0.6631
+seed: 130; # of shots: 100; index of run: 4
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6806 F1-macro: 0.6606
+seed: 130; # of shots: 100; index of run: 5
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 2; index of run: 1
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 2; index of run: 2
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3336 F1-macro: 0.1675
+seed: 131; # of shots: 2; index of run: 3
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 2; index of run: 4
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 2; index of run: 5
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 4; index of run: 1
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3316 F1-macro: 0.1761
+seed: 131; # of shots: 4; index of run: 2
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3321 F1-macro: 0.1683
+seed: 131; # of shots: 4; index of run: 3
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 4; index of run: 4
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3336 F1-macro: 0.1687
+seed: 131; # of shots: 4; index of run: 5
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3411 F1-macro: 0.1993
+seed: 131; # of shots: 6; index of run: 1
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 6; index of run: 2
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.339 F1-macro: 0.2229
+seed: 131; # of shots: 6; index of run: 3
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 6; index of run: 4
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 6; index of run: 5
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.33 F1-macro: 0.1854
+seed: 131; # of shots: 8; index of run: 1
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 8; index of run: 2
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 8; index of run: 3
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 8; index of run: 4
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3338 F1-macro: 0.1679
+seed: 131; # of shots: 8; index of run: 5
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 10; index of run: 1
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.336 F1-macro: 0.1749
+seed: 131; # of shots: 10; index of run: 2
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3341 F1-macro: 0.1729
+seed: 131; # of shots: 10; index of run: 3
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3344 F1-macro: 0.1715
+seed: 131; # of shots: 10; index of run: 4
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 10; index of run: 5
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 131; # of shots: 20; index of run: 1
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.5009 F1-macro: 0.4772
+seed: 131; # of shots: 20; index of run: 2
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.3514 F1-macro: 0.2041
+seed: 131; # of shots: 20; index of run: 3
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.3616 F1-macro: 0.2505
+seed: 131; # of shots: 20; index of run: 4
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4706 F1-macro: 0.4587
+seed: 131; # of shots: 20; index of run: 5
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4552 F1-macro: 0.4407
+seed: 131; # of shots: 30; index of run: 1
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4348 F1-macro: 0.4375
+seed: 131; # of shots: 30; index of run: 2
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4652 F1-macro: 0.4508
+seed: 131; # of shots: 30; index of run: 3
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4615 F1-macro: 0.4532
+seed: 131; # of shots: 30; index of run: 4
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4893 F1-macro: 0.4479
+seed: 131; # of shots: 30; index of run: 5
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4758 F1-macro: 0.4732
+seed: 131; # of shots: 40; index of run: 1
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.4838 F1-macro: 0.4444
+seed: 131; # of shots: 40; index of run: 2
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5268 F1-macro: 0.4752
+seed: 131; # of shots: 40; index of run: 3
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.6408 F1-macro: 0.6377
+seed: 131; # of shots: 40; index of run: 4
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5124 F1-macro: 0.4863
+seed: 131; # of shots: 40; index of run: 5
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.6191 F1-macro: 0.5934
+seed: 131; # of shots: 50; index of run: 1
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.4694 F1-macro: 0.472
+seed: 131; # of shots: 50; index of run: 2
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5888 F1-macro: 0.5855
+seed: 131; # of shots: 50; index of run: 3
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.4619 F1-macro: 0.4409
+seed: 131; # of shots: 50; index of run: 4
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5323 F1-macro: 0.5389
+seed: 131; # of shots: 50; index of run: 5
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6195 F1-macro: 0.5969
+seed: 131; # of shots: 100; index of run: 1
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7718 F1-macro: 0.7571
+seed: 131; # of shots: 100; index of run: 2
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7128 F1-macro: 0.7122
+seed: 131; # of shots: 100; index of run: 3
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.661 F1-macro: 0.6544
+seed: 131; # of shots: 100; index of run: 4
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6423 F1-macro: 0.6224
+seed: 131; # of shots: 100; index of run: 5
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7147 F1-macro: 0.714
+seed: 132; # of shots: 2; index of run: 1
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3334 F1-macro: 0.1698
+seed: 132; # of shots: 2; index of run: 2
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3317 F1-macro: 0.2625
+seed: 132; # of shots: 2; index of run: 3
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1676
+seed: 132; # of shots: 2; index of run: 4
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3368 F1-macro: 0.2402
+seed: 132; # of shots: 2; index of run: 5
+Using device "cuda"
+full trainset length: 2 2 2
+full devset length: 3331 3331 3331
+Acc: 0.3333 F1-macro: 0.1667
+seed: 132; # of shots: 4; index of run: 1
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 132; # of shots: 4; index of run: 2
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 132; # of shots: 4; index of run: 3
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3333 F1-macro: 0.1667
+seed: 132; # of shots: 4; index of run: 4
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3346 F1-macro: 0.1851
+seed: 132; # of shots: 4; index of run: 5
+Using device "cuda"
+full trainset length: 4 4 4
+full devset length: 3329 3329 3329
+Acc: 0.3353 F1-macro: 0.1725
+seed: 132; # of shots: 6; index of run: 1
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 132; # of shots: 6; index of run: 2
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3276 F1-macro: 0.259
+seed: 132; # of shots: 6; index of run: 3
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 132; # of shots: 6; index of run: 4
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.328 F1-macro: 0.1687
+seed: 132; # of shots: 6; index of run: 5
+Using device "cuda"
+full trainset length: 6 6 6
+full devset length: 3327 3327 3327
+Acc: 0.3333 F1-macro: 0.1667
+seed: 132; # of shots: 8; index of run: 1
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 132; # of shots: 8; index of run: 2
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3353 F1-macro: 0.1805
+seed: 132; # of shots: 8; index of run: 3
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3333 F1-macro: 0.1667
+seed: 132; # of shots: 8; index of run: 4
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3331 F1-macro: 0.1666
+seed: 132; # of shots: 8; index of run: 5
+Using device "cuda"
+full trainset length: 8 8 8
+full devset length: 3325 3325 3325
+Acc: 0.3398 F1-macro: 0.2219
+seed: 132; # of shots: 10; index of run: 1
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 132; # of shots: 10; index of run: 2
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3263 F1-macro: 0.1822
+seed: 132; # of shots: 10; index of run: 3
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 132; # of shots: 10; index of run: 4
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 132; # of shots: 10; index of run: 5
+Using device "cuda"
+full trainset length: 10 10 10
+full devset length: 3323 3323 3323
+Acc: 0.3333 F1-macro: 0.1667
+seed: 132; # of shots: 20; index of run: 1
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4383 F1-macro: 0.4411
+seed: 132; # of shots: 20; index of run: 2
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4903 F1-macro: 0.4699
+seed: 132; # of shots: 20; index of run: 3
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4381 F1-macro: 0.366
+seed: 132; # of shots: 20; index of run: 4
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.5018 F1-macro: 0.5044
+seed: 132; # of shots: 20; index of run: 5
+Using device "cuda"
+full trainset length: 20 20 20
+full devset length: 3313 3313 3313
+Acc: 0.4395 F1-macro: 0.4374
+seed: 132; # of shots: 30; index of run: 1
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5394 F1-macro: 0.4722
+seed: 132; # of shots: 30; index of run: 2
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5118 F1-macro: 0.4826
+seed: 132; # of shots: 30; index of run: 3
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5233 F1-macro: 0.466
+seed: 132; # of shots: 30; index of run: 4
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.4877 F1-macro: 0.4726
+seed: 132; # of shots: 30; index of run: 5
+Using device "cuda"
+full trainset length: 30 30 30
+full devset length: 3303 3303 3303
+Acc: 0.5255 F1-macro: 0.5217
+seed: 132; # of shots: 40; index of run: 1
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5998 F1-macro: 0.5886
+seed: 132; # of shots: 40; index of run: 2
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5056 F1-macro: 0.498
+seed: 132; # of shots: 40; index of run: 3
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5756 F1-macro: 0.5614
+seed: 132; # of shots: 40; index of run: 4
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.5764 F1-macro: 0.5515
+seed: 132; # of shots: 40; index of run: 5
+Using device "cuda"
+full trainset length: 40 40 40
+full devset length: 3293 3293 3293
+Acc: 0.6096 F1-macro: 0.5976
+seed: 132; # of shots: 50; index of run: 1
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5374 F1-macro: 0.5124
+seed: 132; # of shots: 50; index of run: 2
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5681 F1-macro: 0.5323
+seed: 132; # of shots: 50; index of run: 3
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6401 F1-macro: 0.6469
+seed: 132; # of shots: 50; index of run: 4
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.6103 F1-macro: 0.5916
+seed: 132; # of shots: 50; index of run: 5
+Using device "cuda"
+full trainset length: 50 50 50
+full devset length: 3283 3283 3283
+Acc: 0.5219 F1-macro: 0.5074
+seed: 132; # of shots: 100; index of run: 1
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.6911 F1-macro: 0.6935
+seed: 132; # of shots: 100; index of run: 2
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7621 F1-macro: 0.7604
+seed: 132; # of shots: 100; index of run: 3
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.7671 F1-macro: 0.766
+seed: 132; # of shots: 100; index of run: 4
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.8365 F1-macro: 0.8359
+seed: 132; # of shots: 100; index of run: 5
+Using device "cuda"
+full trainset length: 100 100 100
+full devset length: 3233 3233 3233
+Acc: 0.832 F1-macro: 0.8272

@@ -1,0 +1,901 @@
+scifact_scifact
+2 bert-base-uncased 123
+Accuracy: 0.3667
+F1-macro: 0.3054
+4 bert-base-uncased 123
+Accuracy: 0.4286
+F1-macro: 0.4019
+6 bert-base-uncased 123
+Accuracy: 0.4238
+F1-macro: 0.4062
+8 bert-base-uncased 123
+Accuracy: 0.4143
+F1-macro: 0.4074
+10 bert-base-uncased 123
+Accuracy: 0.3238
+F1-macro: 0.3085
+20 bert-base-uncased 123
+Accuracy: 0.381
+F1-macro: 0.3822
+30 bert-base-uncased 123
+Accuracy: 0.4714
+F1-macro: 0.4703
+40 bert-base-uncased 123
+Accuracy: 0.4429
+F1-macro: 0.434
+50 bert-base-uncased 123
+Accuracy: 0.4286
+F1-macro: 0.4208
+100 bert-base-uncased 123
+Accuracy: 0.4667
+F1-macro: 0.4533
+2 bert-base-uncased 124
+Accuracy: 0.381
+F1-macro: 0.3598
+4 bert-base-uncased 124
+Accuracy: 0.3476
+F1-macro: 0.3243
+6 bert-base-uncased 124
+Accuracy: 0.3762
+F1-macro: 0.3499
+8 bert-base-uncased 124
+Accuracy: 0.3762
+F1-macro: 0.3604
+10 bert-base-uncased 124
+Accuracy: 0.4095
+F1-macro: 0.4039
+20 bert-base-uncased 124
+Accuracy: 0.4571
+F1-macro: 0.45
+30 bert-base-uncased 124
+Accuracy: 0.4381
+F1-macro: 0.4306
+40 bert-base-uncased 124
+Accuracy: 0.4429
+F1-macro: 0.4347
+50 bert-base-uncased 124
+Accuracy: 0.4619
+F1-macro: 0.4526
+100 bert-base-uncased 124
+Accuracy: 0.4762
+F1-macro: 0.4596
+2 bert-base-uncased 125
+Accuracy: 0.3571
+F1-macro: 0.2643
+4 bert-base-uncased 125
+Accuracy: 0.3619
+F1-macro: 0.3413
+6 bert-base-uncased 125
+Accuracy: 0.3619
+F1-macro: 0.3484
+8 bert-base-uncased 125
+Accuracy: 0.4238
+F1-macro: 0.4136
+10 bert-base-uncased 125
+Accuracy: 0.4333
+F1-macro: 0.4275
+20 bert-base-uncased 125
+Accuracy: 0.4238
+F1-macro: 0.4187
+30 bert-base-uncased 125
+Accuracy: 0.4619
+F1-macro: 0.46
+40 bert-base-uncased 125
+Accuracy: 0.4619
+F1-macro: 0.4572
+50 bert-base-uncased 125
+Accuracy: 0.4762
+F1-macro: 0.4705
+100 bert-base-uncased 125
+Accuracy: 0.4667
+F1-macro: 0.4558
+2 bert-base-uncased 126
+Accuracy: 0.4476
+F1-macro: 0.4342
+4 bert-base-uncased 126
+Accuracy: 0.3762
+F1-macro: 0.3423
+6 bert-base-uncased 126
+Accuracy: 0.3905
+F1-macro: 0.3611
+8 bert-base-uncased 126
+Accuracy: 0.4095
+F1-macro: 0.4034
+10 bert-base-uncased 126
+Accuracy: 0.419
+F1-macro: 0.4318
+20 bert-base-uncased 126
+Accuracy: 0.4286
+F1-macro: 0.4297
+30 bert-base-uncased 126
+Accuracy: 0.4429
+F1-macro: 0.4375
+40 bert-base-uncased 126
+Accuracy: 0.4333
+F1-macro: 0.4264
+50 bert-base-uncased 126
+Accuracy: 0.4571
+F1-macro: 0.4466
+100 bert-base-uncased 126
+Accuracy: 0.4143
+F1-macro: 0.4047
+2 bert-base-uncased 127
+Accuracy: 0.4095
+F1-macro: 0.3503
+4 bert-base-uncased 127
+Accuracy: 0.419
+F1-macro: 0.42
+6 bert-base-uncased 127
+Accuracy: 0.3857
+F1-macro: 0.3377
+8 bert-base-uncased 127
+Accuracy: 0.4619
+F1-macro: 0.4078
+10 bert-base-uncased 127
+Accuracy: 0.4
+F1-macro: 0.3641
+20 bert-base-uncased 127
+Accuracy: 0.4714
+F1-macro: 0.4662
+30 bert-base-uncased 127
+Accuracy: 0.4571
+F1-macro: 0.4469
+40 bert-base-uncased 127
+Accuracy: 0.4571
+F1-macro: 0.4453
+50 bert-base-uncased 127
+Accuracy: 0.4762
+F1-macro: 0.4582
+100 bert-base-uncased 127
+Accuracy: 0.4476
+F1-macro: 0.4299
+2 bert-base-uncased 128
+Accuracy: 0.3667
+F1-macro: 0.2982
+4 bert-base-uncased 128
+Accuracy: 0.3857
+F1-macro: 0.3595
+6 bert-base-uncased 128
+Accuracy: 0.4
+F1-macro: 0.3814
+8 bert-base-uncased 128
+Accuracy: 0.4381
+F1-macro: 0.4372
+10 bert-base-uncased 128
+Accuracy: 0.419
+F1-macro: 0.4163
+20 bert-base-uncased 128
+Accuracy: 0.419
+F1-macro: 0.4164
+30 bert-base-uncased 128
+Accuracy: 0.4571
+F1-macro: 0.4545
+40 bert-base-uncased 128
+Accuracy: 0.4333
+F1-macro: 0.4312
+50 bert-base-uncased 128
+Accuracy: 0.4333
+F1-macro: 0.4225
+100 bert-base-uncased 128
+Accuracy: 0.4429
+F1-macro: 0.433
+2 bert-base-uncased 129
+Accuracy: 0.4
+F1-macro: 0.3686
+4 bert-base-uncased 129
+Accuracy: 0.3857
+F1-macro: 0.3679
+6 bert-base-uncased 129
+Accuracy: 0.381
+F1-macro: 0.3649
+8 bert-base-uncased 129
+Accuracy: 0.4333
+F1-macro: 0.4129
+10 bert-base-uncased 129
+Accuracy: 0.419
+F1-macro: 0.4039
+20 bert-base-uncased 129
+Accuracy: 0.4857
+F1-macro: 0.4851
+30 bert-base-uncased 129
+Accuracy: 0.4238
+F1-macro: 0.4239
+40 bert-base-uncased 129
+Accuracy: 0.4667
+F1-macro: 0.4651
+50 bert-base-uncased 129
+Accuracy: 0.4524
+F1-macro: 0.447
+100 bert-base-uncased 129
+Accuracy: 0.4524
+F1-macro: 0.4422
+2 bert-base-uncased 130
+Accuracy: 0.3286
+F1-macro: 0.2618
+4 bert-base-uncased 130
+Accuracy: 0.319
+F1-macro: 0.305
+6 bert-base-uncased 130
+Accuracy: 0.4333
+F1-macro: 0.4246
+8 bert-base-uncased 130
+Accuracy: 0.419
+F1-macro: 0.4146
+10 bert-base-uncased 130
+Accuracy: 0.3857
+F1-macro: 0.3852
+20 bert-base-uncased 130
+Accuracy: 0.4143
+F1-macro: 0.4067
+30 bert-base-uncased 130
+Accuracy: 0.3952
+F1-macro: 0.3925
+40 bert-base-uncased 130
+Accuracy: 0.4048
+F1-macro: 0.4021
+50 bert-base-uncased 130
+Accuracy: 0.4095
+F1-macro: 0.4
+100 bert-base-uncased 130
+Accuracy: 0.4286
+F1-macro: 0.4209
+2 bert-base-uncased 131
+Accuracy: 0.3429
+F1-macro: 0.3075
+4 bert-base-uncased 131
+Accuracy: 0.3714
+F1-macro: 0.3512
+6 bert-base-uncased 131
+Accuracy: 0.3381
+F1-macro: 0.3158
+8 bert-base-uncased 131
+Accuracy: 0.3667
+F1-macro: 0.3533
+10 bert-base-uncased 131
+Accuracy: 0.3619
+F1-macro: 0.3648
+20 bert-base-uncased 131
+Accuracy: 0.3667
+F1-macro: 0.349
+30 bert-base-uncased 131
+Accuracy: 0.4095
+F1-macro: 0.3996
+40 bert-base-uncased 131
+Accuracy: 0.4524
+F1-macro: 0.4447
+50 bert-base-uncased 131
+Accuracy: 0.4571
+F1-macro: 0.4519
+100 bert-base-uncased 131
+Accuracy: 0.4524
+F1-macro: 0.4346
+2 bert-base-uncased 132
+Accuracy: 0.3429
+F1-macro: 0.3449
+4 bert-base-uncased 132
+Accuracy: 0.4238
+F1-macro: 0.4268
+6 bert-base-uncased 132
+Accuracy: 0.3952
+F1-macro: 0.3938
+8 bert-base-uncased 132
+Accuracy: 0.3571
+F1-macro: 0.3477
+10 bert-base-uncased 132
+Accuracy: 0.4286
+F1-macro: 0.4279
+20 bert-base-uncased 132
+Accuracy: 0.4381
+F1-macro: 0.4364
+30 bert-base-uncased 132
+Accuracy: 0.4429
+F1-macro: 0.4333
+40 bert-base-uncased 132
+Accuracy: 0.4571
+F1-macro: 0.4464
+50 bert-base-uncased 132
+Accuracy: 0.5
+F1-macro: 0.4919
+100 bert-base-uncased 132
+Accuracy: 0.4762
+F1-macro: 0.4666
+2 bert-large-uncased 123
+Accuracy: 0.3857
+F1-macro: 0.3236
+4 bert-large-uncased 123
+Accuracy: 0.3714
+F1-macro: 0.3144
+6 bert-large-uncased 123
+Accuracy: 0.4238
+F1-macro: 0.4006
+8 bert-large-uncased 123
+Accuracy: 0.4524
+F1-macro: 0.4393
+10 bert-large-uncased 123
+Accuracy: 0.4095
+F1-macro: 0.405
+20 bert-large-uncased 123
+Accuracy: 0.4286
+F1-macro: 0.4183
+30 bert-large-uncased 123
+Accuracy: 0.4571
+F1-macro: 0.4453
+40 bert-large-uncased 123
+Accuracy: 0.4905
+F1-macro: 0.4914
+50 bert-large-uncased 123
+Accuracy: 0.4619
+F1-macro: 0.4638
+100 bert-large-uncased 123
+Accuracy: 0.481
+F1-macro: 0.4668
+2 bert-large-uncased 124
+Accuracy: 0.4286
+F1-macro: 0.4212
+4 bert-large-uncased 124
+Accuracy: 0.4238
+F1-macro: 0.4221
+6 bert-large-uncased 124
+Accuracy: 0.4381
+F1-macro: 0.4348
+8 bert-large-uncased 124
+Accuracy: 0.4238
+F1-macro: 0.4148
+10 bert-large-uncased 124
+Accuracy: 0.481
+F1-macro: 0.4713
+20 bert-large-uncased 124
+Accuracy: 0.4667
+F1-macro: 0.4594
+30 bert-large-uncased 124
+Accuracy: 0.4476
+F1-macro: 0.4335
+40 bert-large-uncased 124
+Accuracy: 0.4952
+F1-macro: 0.4695
+50 bert-large-uncased 124
+Accuracy: 0.5
+F1-macro: 0.4899
+100 bert-large-uncased 124
+Accuracy: 0.5143
+F1-macro: 0.5047
+2 bert-large-uncased 125
+Accuracy: 0.3333
+F1-macro: 0.2282
+4 bert-large-uncased 125
+Accuracy: 0.3476
+F1-macro: 0.3179
+6 bert-large-uncased 125
+Accuracy: 0.419
+F1-macro: 0.4102
+8 bert-large-uncased 125
+Accuracy: 0.4524
+F1-macro: 0.4446
+10 bert-large-uncased 125
+Accuracy: 0.4143
+F1-macro: 0.4002
+20 bert-large-uncased 125
+Accuracy: 0.3952
+F1-macro: 0.3832
+30 bert-large-uncased 125
+Accuracy: 0.4476
+F1-macro: 0.4413
+40 bert-large-uncased 125
+Accuracy: 0.4476
+F1-macro: 0.4369
+50 bert-large-uncased 125
+Accuracy: 0.4524
+F1-macro: 0.4521
+100 bert-large-uncased 125
+Accuracy: 0.4381
+F1-macro: 0.4227
+2 bert-large-uncased 126
+Accuracy: 0.3429
+F1-macro: 0.3276
+4 bert-large-uncased 126
+Accuracy: 0.3381
+F1-macro: 0.33
+6 bert-large-uncased 126
+Accuracy: 0.3476
+F1-macro: 0.3278
+8 bert-large-uncased 126
+Accuracy: 0.4095
+F1-macro: 0.3779
+10 bert-large-uncased 126
+Accuracy: 0.4286
+F1-macro: 0.3982
+20 bert-large-uncased 126
+Accuracy: 0.3762
+F1-macro: 0.3748
+30 bert-large-uncased 126
+Accuracy: 0.419
+F1-macro: 0.4163
+40 bert-large-uncased 126
+Accuracy: 0.4381
+F1-macro: 0.4358
+50 bert-large-uncased 126
+Accuracy: 0.4381
+F1-macro: 0.4428
+100 bert-large-uncased 126
+Accuracy: 0.4143
+F1-macro: 0.4086
+2 bert-large-uncased 127
+Accuracy: 0.381
+F1-macro: 0.3383
+4 bert-large-uncased 127
+Accuracy: 0.3571
+F1-macro: 0.3421
+6 bert-large-uncased 127
+Accuracy: 0.4286
+F1-macro: 0.4108
+8 bert-large-uncased 127
+Accuracy: 0.4429
+F1-macro: 0.4178
+10 bert-large-uncased 127
+Accuracy: 0.3762
+F1-macro: 0.3595
+20 bert-large-uncased 127
+Accuracy: 0.4667
+F1-macro: 0.4331
+30 bert-large-uncased 127
+Accuracy: 0.481
+F1-macro: 0.4559
+40 bert-large-uncased 127
+Accuracy: 0.4667
+F1-macro: 0.4596
+50 bert-large-uncased 127
+Accuracy: 0.4524
+F1-macro: 0.4363
+100 bert-large-uncased 127
+Accuracy: 0.4714
+F1-macro: 0.4584
+2 bert-large-uncased 128
+Accuracy: 0.3333
+F1-macro: 0.2676
+4 bert-large-uncased 128
+Accuracy: 0.3619
+F1-macro: 0.2761
+6 bert-large-uncased 128
+Accuracy: 0.3524
+F1-macro: 0.3048
+8 bert-large-uncased 128
+Accuracy: 0.4
+F1-macro: 0.3788
+10 bert-large-uncased 128
+Accuracy: 0.3952
+F1-macro: 0.3666
+20 bert-large-uncased 128
+Accuracy: 0.4381
+F1-macro: 0.4281
+30 bert-large-uncased 128
+Accuracy: 0.3857
+F1-macro: 0.3791
+40 bert-large-uncased 128
+Accuracy: 0.4238
+F1-macro: 0.4218
+50 bert-large-uncased 128
+Accuracy: 0.4429
+F1-macro: 0.4358
+100 bert-large-uncased 128
+Accuracy: 0.4238
+F1-macro: 0.4115
+2 bert-large-uncased 129
+Accuracy: 0.3714
+F1-macro: 0.3263
+4 bert-large-uncased 129
+Accuracy: 0.4048
+F1-macro: 0.3964
+6 bert-large-uncased 129
+Accuracy: 0.3857
+F1-macro: 0.3522
+8 bert-large-uncased 129
+Accuracy: 0.4571
+F1-macro: 0.4403
+10 bert-large-uncased 129
+Accuracy: 0.4667
+F1-macro: 0.4551
+20 bert-large-uncased 129
+Accuracy: 0.4714
+F1-macro: 0.46
+30 bert-large-uncased 129
+Accuracy: 0.4667
+F1-macro: 0.4631
+40 bert-large-uncased 129
+Accuracy: 0.4524
+F1-macro: 0.4492
+50 bert-large-uncased 129
+Accuracy: 0.4857
+F1-macro: 0.4746
+100 bert-large-uncased 129
+Accuracy: 0.4429
+F1-macro: 0.4364
+2 bert-large-uncased 130
+Accuracy: 0.3524
+F1-macro: 0.3056
+4 bert-large-uncased 130
+Accuracy: 0.2905
+F1-macro: 0.2463
+6 bert-large-uncased 130
+Accuracy: 0.319
+F1-macro: 0.299
+8 bert-large-uncased 130
+Accuracy: 0.4048
+F1-macro: 0.407
+10 bert-large-uncased 130
+Accuracy: 0.381
+F1-macro: 0.3771
+20 bert-large-uncased 130
+Accuracy: 0.4381
+F1-macro: 0.4382
+30 bert-large-uncased 130
+Accuracy: 0.4571
+F1-macro: 0.4453
+40 bert-large-uncased 130
+Accuracy: 0.4429
+F1-macro: 0.4284
+50 bert-large-uncased 130
+Accuracy: 0.4524
+F1-macro: 0.4412
+100 bert-large-uncased 130
+Accuracy: 0.4619
+F1-macro: 0.4574
+2 bert-large-uncased 131
+Accuracy: 0.319
+F1-macro: 0.2918
+4 bert-large-uncased 131
+Accuracy: 0.3095
+F1-macro: 0.2857
+6 bert-large-uncased 131
+Accuracy: 0.3429
+F1-macro: 0.3265
+8 bert-large-uncased 131
+Accuracy: 0.3667
+F1-macro: 0.3573
+10 bert-large-uncased 131
+Accuracy: 0.3619
+F1-macro: 0.3617
+20 bert-large-uncased 131
+Accuracy: 0.3429
+F1-macro: 0.3415
+30 bert-large-uncased 131
+Accuracy: 0.4
+F1-macro: 0.388
+40 bert-large-uncased 131
+Accuracy: 0.4095
+F1-macro: 0.3925
+50 bert-large-uncased 131
+Accuracy: 0.4571
+F1-macro: 0.4488
+100 bert-large-uncased 131
+Accuracy: 0.4619
+F1-macro: 0.4505
+2 bert-large-uncased 132
+Accuracy: 0.4048
+F1-macro: 0.3907
+4 bert-large-uncased 132
+Accuracy: 0.4095
+F1-macro: 0.4127
+6 bert-large-uncased 132
+Accuracy: 0.4429
+F1-macro: 0.4419
+8 bert-large-uncased 132
+Accuracy: 0.4095
+F1-macro: 0.3875
+10 bert-large-uncased 132
+Accuracy: 0.4667
+F1-macro: 0.466
+20 bert-large-uncased 132
+Accuracy: 0.481
+F1-macro: 0.4753
+30 bert-large-uncased 132
+Accuracy: 0.4619
+F1-macro: 0.4547
+40 bert-large-uncased 132
+Accuracy: 0.5
+F1-macro: 0.4894
+50 bert-large-uncased 132
+Accuracy: 0.4571
+F1-macro: 0.4381
+100 bert-large-uncased 132
+Accuracy: 0.4714
+F1-macro: 0.4609
+2 bert-base-nli-mean-tokens 123
+Accuracy: 0.4381
+F1-macro: 0.3685
+4 bert-base-nli-mean-tokens 123
+Accuracy: 0.4667
+F1-macro: 0.4238
+6 bert-base-nli-mean-tokens 123
+Accuracy: 0.5
+F1-macro: 0.4536
+8 bert-base-nli-mean-tokens 123
+Accuracy: 0.4571
+F1-macro: 0.442
+10 bert-base-nli-mean-tokens 123
+Accuracy: 0.5048
+F1-macro: 0.4619
+20 bert-base-nli-mean-tokens 123
+Accuracy: 0.5238
+F1-macro: 0.5055
+30 bert-base-nli-mean-tokens 123
+Accuracy: 0.5333
+F1-macro: 0.5233
+40 bert-base-nli-mean-tokens 123
+Accuracy: 0.5
+F1-macro: 0.485
+50 bert-base-nli-mean-tokens 123
+Accuracy: 0.5333
+F1-macro: 0.5251
+100 bert-base-nli-mean-tokens 123
+Accuracy: 0.5286
+F1-macro: 0.5225
+2 bert-base-nli-mean-tokens 124
+Accuracy: 0.281
+F1-macro: 0.2465
+4 bert-base-nli-mean-tokens 124
+Accuracy: 0.3857
+F1-macro: 0.3763
+6 bert-base-nli-mean-tokens 124
+Accuracy: 0.5
+F1-macro: 0.4975
+8 bert-base-nli-mean-tokens 124
+Accuracy: 0.4762
+F1-macro: 0.4638
+10 bert-base-nli-mean-tokens 124
+Accuracy: 0.4619
+F1-macro: 0.4537
+20 bert-base-nli-mean-tokens 124
+Accuracy: 0.4476
+F1-macro: 0.4364
+30 bert-base-nli-mean-tokens 124
+Accuracy: 0.4952
+F1-macro: 0.492
+40 bert-base-nli-mean-tokens 124
+Accuracy: 0.5048
+F1-macro: 0.5026
+50 bert-base-nli-mean-tokens 124
+Accuracy: 0.4381
+F1-macro: 0.4333
+100 bert-base-nli-mean-tokens 124
+Accuracy: 0.4714
+F1-macro: 0.468
+2 bert-base-nli-mean-tokens 125
+Accuracy: 0.4048
+F1-macro: 0.3151
+4 bert-base-nli-mean-tokens 125
+Accuracy: 0.4476
+F1-macro: 0.4179
+6 bert-base-nli-mean-tokens 125
+Accuracy: 0.4143
+F1-macro: 0.4105
+8 bert-base-nli-mean-tokens 125
+Accuracy: 0.4952
+F1-macro: 0.4786
+10 bert-base-nli-mean-tokens 125
+Accuracy: 0.519
+F1-macro: 0.5166
+20 bert-base-nli-mean-tokens 125
+Accuracy: 0.5
+F1-macro: 0.4949
+30 bert-base-nli-mean-tokens 125
+Accuracy: 0.5333
+F1-macro: 0.5324
+40 bert-base-nli-mean-tokens 125
+Accuracy: 0.5095
+F1-macro: 0.5057
+50 bert-base-nli-mean-tokens 125
+Accuracy: 0.4905
+F1-macro: 0.4878
+100 bert-base-nli-mean-tokens 125
+Accuracy: 0.5238
+F1-macro: 0.5199
+2 bert-base-nli-mean-tokens 126
+Accuracy: 0.419
+F1-macro: 0.328
+4 bert-base-nli-mean-tokens 126
+Accuracy: 0.4476
+F1-macro: 0.3922
+6 bert-base-nli-mean-tokens 126
+Accuracy: 0.4429
+F1-macro: 0.3935
+8 bert-base-nli-mean-tokens 126
+Accuracy: 0.4714
+F1-macro: 0.441
+10 bert-base-nli-mean-tokens 126
+Accuracy: 0.4762
+F1-macro: 0.4389
+20 bert-base-nli-mean-tokens 126
+Accuracy: 0.481
+F1-macro: 0.4666
+30 bert-base-nli-mean-tokens 126
+Accuracy: 0.5429
+F1-macro: 0.5357
+40 bert-base-nli-mean-tokens 126
+Accuracy: 0.4905
+F1-macro: 0.4822
+50 bert-base-nli-mean-tokens 126
+Accuracy: 0.5476
+F1-macro: 0.5424
+100 bert-base-nli-mean-tokens 126
+Accuracy: 0.4905
+F1-macro: 0.4809
+2 bert-base-nli-mean-tokens 127
+Accuracy: 0.4095
+F1-macro: 0.3413
+4 bert-base-nli-mean-tokens 127
+Accuracy: 0.4667
+F1-macro: 0.4577
+6 bert-base-nli-mean-tokens 127
+Accuracy: 0.4571
+F1-macro: 0.4507
+8 bert-base-nli-mean-tokens 127
+Accuracy: 0.4571
+F1-macro: 0.4523
+10 bert-base-nli-mean-tokens 127
+Accuracy: 0.5095
+F1-macro: 0.5076
+20 bert-base-nli-mean-tokens 127
+Accuracy: 0.4905
+F1-macro: 0.4832
+30 bert-base-nli-mean-tokens 127
+Accuracy: 0.4857
+F1-macro: 0.4823
+40 bert-base-nli-mean-tokens 127
+Accuracy: 0.4714
+F1-macro: 0.4559
+50 bert-base-nli-mean-tokens 127
+Accuracy: 0.4524
+F1-macro: 0.4421
+100 bert-base-nli-mean-tokens 127
+Accuracy: 0.4857
+F1-macro: 0.483
+2 bert-base-nli-mean-tokens 128
+Accuracy: 0.4429
+F1-macro: 0.4077
+4 bert-base-nli-mean-tokens 128
+Accuracy: 0.4667
+F1-macro: 0.424
+6 bert-base-nli-mean-tokens 128
+Accuracy: 0.4571
+F1-macro: 0.4229
+8 bert-base-nli-mean-tokens 128
+Accuracy: 0.4048
+F1-macro: 0.3956
+10 bert-base-nli-mean-tokens 128
+Accuracy: 0.4286
+F1-macro: 0.4147
+20 bert-base-nli-mean-tokens 128
+Accuracy: 0.4714
+F1-macro: 0.4642
+30 bert-base-nli-mean-tokens 128
+Accuracy: 0.4905
+F1-macro: 0.4886
+40 bert-base-nli-mean-tokens 128
+Accuracy: 0.4857
+F1-macro: 0.4827
+50 bert-base-nli-mean-tokens 128
+Accuracy: 0.4857
+F1-macro: 0.4826
+100 bert-base-nli-mean-tokens 128
+Accuracy: 0.5
+F1-macro: 0.494
+2 bert-base-nli-mean-tokens 129
+Accuracy: 0.319
+F1-macro: 0.3158
+4 bert-base-nli-mean-tokens 129
+Accuracy: 0.4524
+F1-macro: 0.4209
+6 bert-base-nli-mean-tokens 129
+Accuracy: 0.4429
+F1-macro: 0.4046
+8 bert-base-nli-mean-tokens 129
+Accuracy: 0.4905
+F1-macro: 0.4774
+10 bert-base-nli-mean-tokens 129
+Accuracy: 0.5143
+F1-macro: 0.5003
+20 bert-base-nli-mean-tokens 129
+Accuracy: 0.5095
+F1-macro: 0.5038
+30 bert-base-nli-mean-tokens 129
+Accuracy: 0.481
+F1-macro: 0.4673
+40 bert-base-nli-mean-tokens 129
+Accuracy: 0.481
+F1-macro: 0.467
+50 bert-base-nli-mean-tokens 129
+Accuracy: 0.5333
+F1-macro: 0.5311
+100 bert-base-nli-mean-tokens 129
+Accuracy: 0.5238
+F1-macro: 0.5207
+2 bert-base-nli-mean-tokens 130
+Accuracy: 0.3476
+F1-macro: 0.3324
+4 bert-base-nli-mean-tokens 130
+Accuracy: 0.4571
+F1-macro: 0.4343
+6 bert-base-nli-mean-tokens 130
+Accuracy: 0.4857
+F1-macro: 0.4712
+8 bert-base-nli-mean-tokens 130
+Accuracy: 0.4381
+F1-macro: 0.423
+10 bert-base-nli-mean-tokens 130
+Accuracy: 0.4667
+F1-macro: 0.4604
+20 bert-base-nli-mean-tokens 130
+Accuracy: 0.4952
+F1-macro: 0.4922
+30 bert-base-nli-mean-tokens 130
+Accuracy: 0.5048
+F1-macro: 0.4985
+40 bert-base-nli-mean-tokens 130
+Accuracy: 0.4857
+F1-macro: 0.4814
+50 bert-base-nli-mean-tokens 130
+Accuracy: 0.5286
+F1-macro: 0.5227
+100 bert-base-nli-mean-tokens 130
+Accuracy: 0.5381
+F1-macro: 0.5315
+2 bert-base-nli-mean-tokens 131
+Accuracy: 0.4524
+F1-macro: 0.4026
+4 bert-base-nli-mean-tokens 131
+Accuracy: 0.3667
+F1-macro: 0.3361
+6 bert-base-nli-mean-tokens 131
+Accuracy: 0.3143
+F1-macro: 0.2974
+8 bert-base-nli-mean-tokens 131
+Accuracy: 0.3381
+F1-macro: 0.3126
+10 bert-base-nli-mean-tokens 131
+Accuracy: 0.4333
+F1-macro: 0.4324
+20 bert-base-nli-mean-tokens 131
+Accuracy: 0.5333
+F1-macro: 0.5215
+30 bert-base-nli-mean-tokens 131
+Accuracy: 0.5571
+F1-macro: 0.5508
+40 bert-base-nli-mean-tokens 131
+Accuracy: 0.5429
+F1-macro: 0.5405
+50 bert-base-nli-mean-tokens 131
+Accuracy: 0.5238
+F1-macro: 0.5159
+100 bert-base-nli-mean-tokens 131
+Accuracy: 0.5286
+F1-macro: 0.5221
+2 bert-base-nli-mean-tokens 132
+Accuracy: 0.4571
+F1-macro: 0.4461
+4 bert-base-nli-mean-tokens 132
+Accuracy: 0.4762
+F1-macro: 0.4697
+6 bert-base-nli-mean-tokens 132
+Accuracy: 0.5
+F1-macro: 0.492
+8 bert-base-nli-mean-tokens 132
+Accuracy: 0.5
+F1-macro: 0.483
+10 bert-base-nli-mean-tokens 132
+Accuracy: 0.5
+F1-macro: 0.4954
+20 bert-base-nli-mean-tokens 132
+Accuracy: 0.519
+F1-macro: 0.5096
+30 bert-base-nli-mean-tokens 132
+Accuracy: 0.5143
+F1-macro: 0.506
+40 bert-base-nli-mean-tokens 132
+Accuracy: 0.5143
+F1-macro: 0.5049
+50 bert-base-nli-mean-tokens 132
+Accuracy: 0.4952
+F1-macro: 0.4814
+100 bert-base-nli-mean-tokens 132
+Accuracy: 0.5381
+F1-macro: 0.5292

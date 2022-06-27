@@ -1,0 +1,1500 @@
+seed: 123; # of shots: 2; index of run: 1
+Using device "cuda"
+Acc: 0.3714 F1-macro: 0.2406
+seed: 123; # of shots: 2; index of run: 2
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2307
+seed: 123; # of shots: 2; index of run: 3
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2051
+seed: 123; # of shots: 2; index of run: 4
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1959
+seed: 123; # of shots: 2; index of run: 5
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1697
+seed: 123; # of shots: 4; index of run: 1
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1685
+seed: 123; # of shots: 4; index of run: 2
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1829
+seed: 123; # of shots: 4; index of run: 3
+Using device "cuda"
+Acc: 0.281 F1-macro: 0.1462
+seed: 123; # of shots: 4; index of run: 4
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2051
+seed: 123; # of shots: 4; index of run: 5
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1691
+seed: 123; # of shots: 6; index of run: 1
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1773
+seed: 123; # of shots: 6; index of run: 2
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.1594
+seed: 123; # of shots: 6; index of run: 3
+Using device "cuda"
+Acc: 0.3048 F1-macro: 0.1557
+seed: 123; # of shots: 6; index of run: 4
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.207
+seed: 123; # of shots: 6; index of run: 5
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1697
+seed: 123; # of shots: 8; index of run: 1
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1697
+seed: 123; # of shots: 8; index of run: 2
+Using device "cuda"
+Acc: 0.319 F1-macro: 0.1613
+seed: 123; # of shots: 8; index of run: 3
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1797
+seed: 123; # of shots: 8; index of run: 4
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2051
+seed: 123; # of shots: 8; index of run: 5
+Using device "cuda"
+Acc: 0.3619 F1-macro: 0.2229
+seed: 123; # of shots: 10; index of run: 1
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2051
+seed: 123; # of shots: 10; index of run: 2
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.1594
+seed: 123; # of shots: 10; index of run: 3
+Using device "cuda"
+Acc: 0.2286 F1-macro: 0.1719
+seed: 123; # of shots: 10; index of run: 4
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.1864
+seed: 123; # of shots: 10; index of run: 5
+Using device "cuda"
+Acc: 0.3048 F1-macro: 0.1557
+seed: 123; # of shots: 20; index of run: 1
+Using device "cuda"
+Acc: 0.319 F1-macro: 0.1613
+seed: 123; # of shots: 20; index of run: 2
+Using device "cuda"
+Acc: 0.4095 F1-macro: 0.3036
+seed: 123; # of shots: 20; index of run: 3
+Using device "cuda"
+Acc: 0.3857 F1-macro: 0.2755
+seed: 123; # of shots: 20; index of run: 4
+Using device "cuda"
+Acc: 0.3714 F1-macro: 0.2988
+seed: 123; # of shots: 20; index of run: 5
+Using device "cuda"
+Acc: 0.2905 F1-macro: 0.1578
+seed: 123; # of shots: 30; index of run: 1
+Using device "cuda"
+Acc: 0.2714 F1-macro: 0.1566
+seed: 123; # of shots: 30; index of run: 2
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1649
+seed: 123; # of shots: 30; index of run: 3
+Using device "cuda"
+Acc: 0.4238 F1-macro: 0.3723
+seed: 123; # of shots: 30; index of run: 4
+Using device "cuda"
+Acc: 0.4381 F1-macro: 0.4394
+seed: 123; # of shots: 30; index of run: 5
+Using device "cuda"
+Acc: 0.4 F1-macro: 0.3136
+seed: 123; # of shots: 40; index of run: 1
+Using device "cuda"
+Acc: 0.3619 F1-macro: 0.3011
+seed: 123; # of shots: 40; index of run: 2
+Using device "cuda"
+Acc: 0.4429 F1-macro: 0.3543
+seed: 123; # of shots: 40; index of run: 3
+Using device "cuda"
+Acc: 0.4333 F1-macro: 0.3506
+seed: 123; # of shots: 40; index of run: 4
+Using device "cuda"
+Acc: 0.4381 F1-macro: 0.4423
+seed: 123; # of shots: 40; index of run: 5
+Using device "cuda"
+Acc: 0.4714 F1-macro: 0.3934
+seed: 123; # of shots: 50; index of run: 1
+Using device "cuda"
+Acc: 0.4476 F1-macro: 0.3998
+seed: 123; # of shots: 50; index of run: 2
+Using device "cuda"
+Acc: 0.4667 F1-macro: 0.3789
+seed: 123; # of shots: 50; index of run: 3
+Using device "cuda"
+Acc: 0.5429 F1-macro: 0.5139
+seed: 123; # of shots: 50; index of run: 4
+Using device "cuda"
+Acc: 0.4952 F1-macro: 0.4872
+seed: 123; # of shots: 50; index of run: 5
+Using device "cuda"
+Acc: 0.4476 F1-macro: 0.4116
+seed: 123; # of shots: 100; index of run: 1
+Using device "cuda"
+Acc: 0.5 F1-macro: 0.507
+seed: 123; # of shots: 100; index of run: 2
+Using device "cuda"
+Acc: 0.4714 F1-macro: 0.4818
+seed: 123; # of shots: 100; index of run: 3
+Using device "cuda"
+Acc: 0.4905 F1-macro: 0.4581
+seed: 123; # of shots: 100; index of run: 4
+Using device "cuda"
+Acc: 0.519 F1-macro: 0.5222
+seed: 123; # of shots: 100; index of run: 5
+Using device "cuda"
+Acc: 0.5095 F1-macro: 0.5047
+seed: 124; # of shots: 2; index of run: 1
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1747
+seed: 124; # of shots: 2; index of run: 2
+Using device "cuda"
+Acc: 0.4667 F1-macro: 0.4568
+seed: 124; # of shots: 2; index of run: 3
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1654
+seed: 124; # of shots: 2; index of run: 4
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.2028
+seed: 124; # of shots: 2; index of run: 5
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.1683
+seed: 124; # of shots: 4; index of run: 1
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.16
+seed: 124; # of shots: 4; index of run: 2
+Using device "cuda"
+Acc: 0.419 F1-macro: 0.3436
+seed: 124; # of shots: 4; index of run: 3
+Using device "cuda"
+Acc: 0.2905 F1-macro: 0.1569
+seed: 124; # of shots: 4; index of run: 4
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1771
+seed: 124; # of shots: 4; index of run: 5
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1783
+seed: 124; # of shots: 6; index of run: 1
+Using device "cuda"
+Acc: 0.3667 F1-macro: 0.2314
+seed: 124; # of shots: 6; index of run: 2
+Using device "cuda"
+Acc: 0.3905 F1-macro: 0.2852
+seed: 124; # of shots: 6; index of run: 3
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1667
+seed: 124; # of shots: 6; index of run: 4
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2117
+seed: 124; # of shots: 6; index of run: 5
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1661
+seed: 124; # of shots: 8; index of run: 1
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1704
+seed: 124; # of shots: 8; index of run: 2
+Using device "cuda"
+Acc: 0.2905 F1-macro: 0.1506
+seed: 124; # of shots: 8; index of run: 3
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.2059
+seed: 124; # of shots: 8; index of run: 4
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1667
+seed: 124; # of shots: 8; index of run: 5
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1796
+seed: 124; # of shots: 10; index of run: 1
+Using device "cuda"
+Acc: 0.3619 F1-macro: 0.2335
+seed: 124; # of shots: 10; index of run: 2
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1679
+seed: 124; # of shots: 10; index of run: 3
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1649
+seed: 124; # of shots: 10; index of run: 4
+Using device "cuda"
+Acc: 0.3619 F1-macro: 0.2229
+seed: 124; # of shots: 10; index of run: 5
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2124
+seed: 124; # of shots: 20; index of run: 1
+Using device "cuda"
+Acc: 0.4333 F1-macro: 0.3415
+seed: 124; # of shots: 20; index of run: 2
+Using device "cuda"
+Acc: 0.4667 F1-macro: 0.4676
+seed: 124; # of shots: 20; index of run: 3
+Using device "cuda"
+Acc: 0.2667 F1-macro: 0.2242
+seed: 124; # of shots: 20; index of run: 4
+Using device "cuda"
+Acc: 0.3619 F1-macro: 0.3471
+seed: 124; # of shots: 20; index of run: 5
+Using device "cuda"
+Acc: 0.4429 F1-macro: 0.4162
+seed: 124; # of shots: 30; index of run: 1
+Using device "cuda"
+Acc: 0.4333 F1-macro: 0.3522
+seed: 124; # of shots: 30; index of run: 2
+Using device "cuda"
+Acc: 0.3238 F1-macro: 0.1713
+seed: 124; # of shots: 30; index of run: 3
+Using device "cuda"
+Acc: 0.4714 F1-macro: 0.3793
+seed: 124; # of shots: 30; index of run: 4
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.2662
+seed: 124; # of shots: 30; index of run: 5
+Using device "cuda"
+Acc: 0.3619 F1-macro: 0.232
+seed: 124; # of shots: 40; index of run: 1
+Using device "cuda"
+Acc: 0.4 F1-macro: 0.3993
+seed: 124; # of shots: 40; index of run: 2
+Using device "cuda"
+Acc: 0.4714 F1-macro: 0.3799
+seed: 124; # of shots: 40; index of run: 3
+Using device "cuda"
+Acc: 0.4286 F1-macro: 0.3798
+seed: 124; # of shots: 40; index of run: 4
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1661
+seed: 124; # of shots: 40; index of run: 5
+Using device "cuda"
+Acc: 0.2667 F1-macro: 0.2576
+seed: 124; # of shots: 50; index of run: 1
+Using device "cuda"
+Acc: 0.4381 F1-macro: 0.4363
+seed: 124; # of shots: 50; index of run: 2
+Using device "cuda"
+Acc: 0.3857 F1-macro: 0.3362
+seed: 124; # of shots: 50; index of run: 3
+Using device "cuda"
+Acc: 0.5571 F1-macro: 0.5436
+seed: 124; # of shots: 50; index of run: 4
+Using device "cuda"
+Acc: 0.4286 F1-macro: 0.3506
+seed: 124; # of shots: 50; index of run: 5
+Using device "cuda"
+Acc: 0.4714 F1-macro: 0.3835
+seed: 124; # of shots: 100; index of run: 1
+Using device "cuda"
+Acc: 0.481 F1-macro: 0.4899
+seed: 124; # of shots: 100; index of run: 2
+Using device "cuda"
+Acc: 0.5286 F1-macro: 0.5302
+seed: 124; # of shots: 100; index of run: 3
+Using device "cuda"
+Acc: 0.5286 F1-macro: 0.5282
+seed: 124; # of shots: 100; index of run: 4
+Using device "cuda"
+Acc: 0.4381 F1-macro: 0.4484
+seed: 124; # of shots: 100; index of run: 5
+Using device "cuda"
+Acc: 0.5 F1-macro: 0.4889
+seed: 125; # of shots: 2; index of run: 1
+Using device "cuda"
+Acc: 0.3238 F1-macro: 0.171
+seed: 125; # of shots: 2; index of run: 2
+Using device "cuda"
+Acc: 0.3 F1-macro: 0.1544
+seed: 125; # of shots: 2; index of run: 3
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1767
+seed: 125; # of shots: 2; index of run: 4
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1685
+seed: 125; # of shots: 2; index of run: 5
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2117
+seed: 125; # of shots: 4; index of run: 1
+Using device "cuda"
+Acc: 0.3619 F1-macro: 0.2274
+seed: 125; # of shots: 4; index of run: 2
+Using device "cuda"
+Acc: 0.3571 F1-macro: 0.2204
+seed: 125; # of shots: 4; index of run: 3
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1786
+seed: 125; # of shots: 4; index of run: 4
+Using device "cuda"
+Acc: 0.3 F1-macro: 0.1611
+seed: 125; # of shots: 4; index of run: 5
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1791
+seed: 125; # of shots: 6; index of run: 1
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1661
+seed: 125; # of shots: 6; index of run: 2
+Using device "cuda"
+Acc: 0.3762 F1-macro: 0.251
+seed: 125; # of shots: 6; index of run: 3
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1801
+seed: 125; # of shots: 6; index of run: 4
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2059
+seed: 125; # of shots: 6; index of run: 5
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2142
+seed: 125; # of shots: 8; index of run: 1
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.2053
+seed: 125; # of shots: 8; index of run: 2
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.1867
+seed: 125; # of shots: 8; index of run: 3
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1959
+seed: 125; # of shots: 8; index of run: 4
+Using device "cuda"
+Acc: 0.3714 F1-macro: 0.3012
+seed: 125; # of shots: 8; index of run: 5
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1697
+seed: 125; # of shots: 10; index of run: 1
+Using device "cuda"
+Acc: 0.2905 F1-macro: 0.1583
+seed: 125; # of shots: 10; index of run: 2
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.1669
+seed: 125; # of shots: 10; index of run: 3
+Using device "cuda"
+Acc: 0.2857 F1-macro: 0.1555
+seed: 125; # of shots: 10; index of run: 4
+Using device "cuda"
+Acc: 0.3619 F1-macro: 0.2289
+seed: 125; # of shots: 10; index of run: 5
+Using device "cuda"
+Acc: 0.2571 F1-macro: 0.1564
+seed: 125; # of shots: 20; index of run: 1
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1667
+seed: 125; # of shots: 20; index of run: 2
+Using device "cuda"
+Acc: 0.3667 F1-macro: 0.2421
+seed: 125; # of shots: 20; index of run: 3
+Using device "cuda"
+Acc: 0.4857 F1-macro: 0.388
+seed: 125; # of shots: 20; index of run: 4
+Using device "cuda"
+Acc: 0.3952 F1-macro: 0.2847
+seed: 125; # of shots: 20; index of run: 5
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1673
+seed: 125; # of shots: 30; index of run: 1
+Using device "cuda"
+Acc: 0.3048 F1-macro: 0.1563
+seed: 125; # of shots: 30; index of run: 2
+Using device "cuda"
+Acc: 0.2 F1-macro: 0.16
+seed: 125; # of shots: 30; index of run: 3
+Using device "cuda"
+Acc: 0.4429 F1-macro: 0.4135
+seed: 125; # of shots: 30; index of run: 4
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.174
+seed: 125; # of shots: 30; index of run: 5
+Using device "cuda"
+Acc: 0.3952 F1-macro: 0.3175
+seed: 125; # of shots: 40; index of run: 1
+Using device "cuda"
+Acc: 0.3048 F1-macro: 0.2754
+seed: 125; # of shots: 40; index of run: 2
+Using device "cuda"
+Acc: 0.3714 F1-macro: 0.2899
+seed: 125; # of shots: 40; index of run: 3
+Using device "cuda"
+Acc: 0.481 F1-macro: 0.3899
+seed: 125; # of shots: 40; index of run: 4
+Using device "cuda"
+Acc: 0.4333 F1-macro: 0.3765
+seed: 125; # of shots: 40; index of run: 5
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2522
+seed: 125; # of shots: 50; index of run: 1
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.2475
+seed: 125; # of shots: 50; index of run: 2
+Using device "cuda"
+Acc: 0.4714 F1-macro: 0.3869
+seed: 125; # of shots: 50; index of run: 3
+Using device "cuda"
+Acc: 0.481 F1-macro: 0.4075
+seed: 125; # of shots: 50; index of run: 4
+Using device "cuda"
+Acc: 0.4762 F1-macro: 0.4771
+seed: 125; # of shots: 50; index of run: 5
+Using device "cuda"
+Acc: 0.4524 F1-macro: 0.4524
+seed: 125; # of shots: 100; index of run: 1
+Using device "cuda"
+Acc: 0.4857 F1-macro: 0.4694
+seed: 125; # of shots: 100; index of run: 2
+Using device "cuda"
+Acc: 0.5286 F1-macro: 0.5307
+seed: 125; # of shots: 100; index of run: 3
+Using device "cuda"
+Acc: 0.5095 F1-macro: 0.5129
+seed: 125; # of shots: 100; index of run: 4
+Using device "cuda"
+Acc: 0.5333 F1-macro: 0.5373
+seed: 125; # of shots: 100; index of run: 5
+Using device "cuda"
+Acc: 0.4762 F1-macro: 0.4827
+seed: 126; # of shots: 2; index of run: 1
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1691
+seed: 126; # of shots: 2; index of run: 2
+Using device "cuda"
+Acc: 0.2476 F1-macro: 0.1396
+seed: 126; # of shots: 2; index of run: 3
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1685
+seed: 126; # of shots: 2; index of run: 4
+Using device "cuda"
+Acc: 0.3238 F1-macro: 0.1631
+seed: 126; # of shots: 2; index of run: 5
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2051
+seed: 126; # of shots: 4; index of run: 1
+Using device "cuda"
+Acc: 0.319 F1-macro: 0.1613
+seed: 126; # of shots: 4; index of run: 2
+Using device "cuda"
+Acc: 0.4095 F1-macro: 0.3007
+seed: 126; # of shots: 4; index of run: 3
+Using device "cuda"
+Acc: 0.2905 F1-macro: 0.1506
+seed: 126; # of shots: 4; index of run: 4
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.2
+seed: 126; # of shots: 4; index of run: 5
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1797
+seed: 126; # of shots: 6; index of run: 1
+Using device "cuda"
+Acc: 0.3619 F1-macro: 0.2229
+seed: 126; # of shots: 6; index of run: 2
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2695
+seed: 126; # of shots: 6; index of run: 3
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.187
+seed: 126; # of shots: 6; index of run: 4
+Using device "cuda"
+Acc: 0.4143 F1-macro: 0.3177
+seed: 126; # of shots: 6; index of run: 5
+Using device "cuda"
+Acc: 0.3 F1-macro: 0.1538
+seed: 126; # of shots: 8; index of run: 1
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1709
+seed: 126; # of shots: 8; index of run: 2
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1576
+seed: 126; # of shots: 8; index of run: 3
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1691
+seed: 126; # of shots: 8; index of run: 4
+Using device "cuda"
+Acc: 0.3667 F1-macro: 0.2315
+seed: 126; # of shots: 8; index of run: 5
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2051
+seed: 126; # of shots: 10; index of run: 1
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2051
+seed: 126; # of shots: 10; index of run: 2
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.1876
+seed: 126; # of shots: 10; index of run: 3
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1673
+seed: 126; # of shots: 10; index of run: 4
+Using device "cuda"
+Acc: 0.4333 F1-macro: 0.3508
+seed: 126; # of shots: 10; index of run: 5
+Using device "cuda"
+Acc: 0.2143 F1-macro: 0.1428
+seed: 126; # of shots: 20; index of run: 1
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.1594
+seed: 126; # of shots: 20; index of run: 2
+Using device "cuda"
+Acc: 0.4952 F1-macro: 0.4534
+seed: 126; # of shots: 20; index of run: 3
+Using device "cuda"
+Acc: 0.4 F1-macro: 0.3292
+seed: 126; # of shots: 20; index of run: 4
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1576
+seed: 126; # of shots: 20; index of run: 5
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1576
+seed: 126; # of shots: 30; index of run: 1
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2112
+seed: 126; # of shots: 30; index of run: 2
+Using device "cuda"
+Acc: 0.4524 F1-macro: 0.365
+seed: 126; # of shots: 30; index of run: 3
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.1594
+seed: 126; # of shots: 30; index of run: 4
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1649
+seed: 126; # of shots: 30; index of run: 5
+Using device "cuda"
+Acc: 0.4667 F1-macro: 0.3836
+seed: 126; # of shots: 40; index of run: 1
+Using device "cuda"
+Acc: 0.5095 F1-macro: 0.429
+seed: 126; # of shots: 40; index of run: 2
+Using device "cuda"
+Acc: 0.481 F1-macro: 0.3867
+seed: 126; # of shots: 40; index of run: 3
+Using device "cuda"
+Acc: 0.3714 F1-macro: 0.3354
+seed: 126; # of shots: 40; index of run: 4
+Using device "cuda"
+Acc: 0.5333 F1-macro: 0.4279
+seed: 126; # of shots: 40; index of run: 5
+Using device "cuda"
+Acc: 0.4714 F1-macro: 0.3842
+seed: 126; # of shots: 50; index of run: 1
+Using device "cuda"
+Acc: 0.4476 F1-macro: 0.4137
+seed: 126; # of shots: 50; index of run: 2
+Using device "cuda"
+Acc: 0.4857 F1-macro: 0.3968
+seed: 126; # of shots: 50; index of run: 3
+Using device "cuda"
+Acc: 0.5333 F1-macro: 0.437
+seed: 126; # of shots: 50; index of run: 4
+Using device "cuda"
+Acc: 0.4857 F1-macro: 0.4902
+seed: 126; # of shots: 50; index of run: 5
+Using device "cuda"
+Acc: 0.4333 F1-macro: 0.4245
+seed: 126; # of shots: 100; index of run: 1
+Using device "cuda"
+Acc: 0.5857 F1-macro: 0.5908
+seed: 126; # of shots: 100; index of run: 2
+Using device "cuda"
+Acc: 0.519 F1-macro: 0.5277
+seed: 126; # of shots: 100; index of run: 3
+Using device "cuda"
+Acc: 0.5238 F1-macro: 0.5311
+seed: 126; # of shots: 100; index of run: 4
+Using device "cuda"
+Acc: 0.5286 F1-macro: 0.5014
+seed: 126; # of shots: 100; index of run: 5
+Using device "cuda"
+Acc: 0.5286 F1-macro: 0.535
+seed: 127; # of shots: 2; index of run: 1
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1973
+seed: 127; # of shots: 2; index of run: 2
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1767
+seed: 127; # of shots: 2; index of run: 3
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1905
+seed: 127; # of shots: 2; index of run: 4
+Using device "cuda"
+Acc: 0.2762 F1-macro: 0.1448
+seed: 127; # of shots: 2; index of run: 5
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1767
+seed: 127; # of shots: 4; index of run: 1
+Using device "cuda"
+Acc: 0.2619 F1-macro: 0.2126
+seed: 127; # of shots: 4; index of run: 2
+Using device "cuda"
+Acc: 0.3238 F1-macro: 0.1716
+seed: 127; # of shots: 4; index of run: 3
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.16
+seed: 127; # of shots: 4; index of run: 4
+Using device "cuda"
+Acc: 0.3048 F1-macro: 0.1632
+seed: 127; # of shots: 4; index of run: 5
+Using device "cuda"
+Acc: 0.2952 F1-macro: 0.1895
+seed: 127; # of shots: 6; index of run: 1
+Using device "cuda"
+Acc: 0.3238 F1-macro: 0.1708
+seed: 127; # of shots: 6; index of run: 2
+Using device "cuda"
+Acc: 0.3238 F1-macro: 0.2625
+seed: 127; # of shots: 6; index of run: 3
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1849
+seed: 127; # of shots: 6; index of run: 4
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.171
+seed: 127; # of shots: 6; index of run: 5
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1582
+seed: 127; # of shots: 8; index of run: 1
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1786
+seed: 127; # of shots: 8; index of run: 2
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1679
+seed: 127; # of shots: 8; index of run: 3
+Using device "cuda"
+Acc: 0.3238 F1-macro: 0.1711
+seed: 127; # of shots: 8; index of run: 4
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.1867
+seed: 127; # of shots: 8; index of run: 5
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1967
+seed: 127; # of shots: 10; index of run: 1
+Using device "cuda"
+Acc: 0.3714 F1-macro: 0.2463
+seed: 127; # of shots: 10; index of run: 2
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1961
+seed: 127; # of shots: 10; index of run: 3
+Using device "cuda"
+Acc: 0.3571 F1-macro: 0.2154
+seed: 127; # of shots: 10; index of run: 4
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2068
+seed: 127; # of shots: 10; index of run: 5
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1961
+seed: 127; # of shots: 20; index of run: 1
+Using device "cuda"
+Acc: 0.4286 F1-macro: 0.3386
+seed: 127; # of shots: 20; index of run: 2
+Using device "cuda"
+Acc: 0.3 F1-macro: 0.2167
+seed: 127; # of shots: 20; index of run: 3
+Using device "cuda"
+Acc: 0.4238 F1-macro: 0.3457
+seed: 127; # of shots: 20; index of run: 4
+Using device "cuda"
+Acc: 0.4429 F1-macro: 0.4297
+seed: 127; # of shots: 20; index of run: 5
+Using device "cuda"
+Acc: 0.4667 F1-macro: 0.3973
+seed: 127; # of shots: 30; index of run: 1
+Using device "cuda"
+Acc: 0.3667 F1-macro: 0.2678
+seed: 127; # of shots: 30; index of run: 2
+Using device "cuda"
+Acc: 0.3667 F1-macro: 0.2509
+seed: 127; # of shots: 30; index of run: 3
+Using device "cuda"
+Acc: 0.4476 F1-macro: 0.4035
+seed: 127; # of shots: 30; index of run: 4
+Using device "cuda"
+Acc: 0.4476 F1-macro: 0.4507
+seed: 127; # of shots: 30; index of run: 5
+Using device "cuda"
+Acc: 0.4571 F1-macro: 0.3726
+seed: 127; # of shots: 40; index of run: 1
+Using device "cuda"
+Acc: 0.5333 F1-macro: 0.5067
+seed: 127; # of shots: 40; index of run: 2
+Using device "cuda"
+Acc: 0.4619 F1-macro: 0.3663
+seed: 127; # of shots: 40; index of run: 3
+Using device "cuda"
+Acc: 0.4143 F1-macro: 0.3621
+seed: 127; # of shots: 40; index of run: 4
+Using device "cuda"
+Acc: 0.4762 F1-macro: 0.4567
+seed: 127; # of shots: 40; index of run: 5
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1848
+seed: 127; # of shots: 50; index of run: 1
+Using device "cuda"
+Acc: 0.4857 F1-macro: 0.3938
+seed: 127; # of shots: 50; index of run: 2
+Using device "cuda"
+Acc: 0.519 F1-macro: 0.4178
+seed: 127; # of shots: 50; index of run: 3
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1667
+seed: 127; # of shots: 50; index of run: 4
+Using device "cuda"
+Acc: 0.4952 F1-macro: 0.4011
+seed: 127; # of shots: 50; index of run: 5
+Using device "cuda"
+Acc: 0.4238 F1-macro: 0.3903
+seed: 127; # of shots: 100; index of run: 1
+Using device "cuda"
+Acc: 0.5048 F1-macro: 0.4375
+seed: 127; # of shots: 100; index of run: 2
+Using device "cuda"
+Acc: 0.5381 F1-macro: 0.503
+seed: 127; # of shots: 100; index of run: 3
+Using device "cuda"
+Acc: 0.3857 F1-macro: 0.3854
+seed: 127; # of shots: 100; index of run: 4
+Using device "cuda"
+Acc: 0.4857 F1-macro: 0.4744
+seed: 127; # of shots: 100; index of run: 5
+Using device "cuda"
+Acc: 0.5143 F1-macro: 0.4975
+seed: 128; # of shots: 2; index of run: 1
+Using device "cuda"
+Acc: 0.2905 F1-macro: 0.1506
+seed: 128; # of shots: 2; index of run: 2
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1767
+seed: 128; # of shots: 2; index of run: 3
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1649
+seed: 128; # of shots: 2; index of run: 4
+Using device "cuda"
+Acc: 0.281 F1-macro: 0.1594
+seed: 128; # of shots: 2; index of run: 5
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1961
+seed: 128; # of shots: 4; index of run: 1
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.1669
+seed: 128; # of shots: 4; index of run: 2
+Using device "cuda"
+Acc: 0.2238 F1-macro: 0.1506
+seed: 128; # of shots: 4; index of run: 3
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1582
+seed: 128; # of shots: 4; index of run: 4
+Using device "cuda"
+Acc: 0.4381 F1-macro: 0.3581
+seed: 128; # of shots: 4; index of run: 5
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1961
+seed: 128; # of shots: 6; index of run: 1
+Using device "cuda"
+Acc: 0.4333 F1-macro: 0.3783
+seed: 128; # of shots: 6; index of run: 2
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1961
+seed: 128; # of shots: 6; index of run: 3
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2117
+seed: 128; # of shots: 6; index of run: 4
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1796
+seed: 128; # of shots: 6; index of run: 5
+Using device "cuda"
+Acc: 0.2762 F1-macro: 0.1448
+seed: 128; # of shots: 8; index of run: 1
+Using device "cuda"
+Acc: 0.2905 F1-macro: 0.1506
+seed: 128; # of shots: 8; index of run: 2
+Using device "cuda"
+Acc: 0.3048 F1-macro: 0.163
+seed: 128; # of shots: 8; index of run: 3
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1961
+seed: 128; # of shots: 8; index of run: 4
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.1955
+seed: 128; # of shots: 8; index of run: 5
+Using device "cuda"
+Acc: 0.2619 F1-macro: 0.1935
+seed: 128; # of shots: 10; index of run: 1
+Using device "cuda"
+Acc: 0.2905 F1-macro: 0.1577
+seed: 128; # of shots: 10; index of run: 2
+Using device "cuda"
+Acc: 0.3048 F1-macro: 0.1632
+seed: 128; # of shots: 10; index of run: 3
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1679
+seed: 128; # of shots: 10; index of run: 4
+Using device "cuda"
+Acc: 0.3667 F1-macro: 0.2373
+seed: 128; # of shots: 10; index of run: 5
+Using device "cuda"
+Acc: 0.3 F1-macro: 0.1619
+seed: 128; # of shots: 20; index of run: 1
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.1881
+seed: 128; # of shots: 20; index of run: 2
+Using device "cuda"
+Acc: 0.4048 F1-macro: 0.3142
+seed: 128; # of shots: 20; index of run: 3
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1667
+seed: 128; # of shots: 20; index of run: 4
+Using device "cuda"
+Acc: 0.3048 F1-macro: 0.1563
+seed: 128; # of shots: 20; index of run: 5
+Using device "cuda"
+Acc: 0.3238 F1-macro: 0.1637
+seed: 128; # of shots: 30; index of run: 1
+Using device "cuda"
+Acc: 0.4429 F1-macro: 0.3533
+seed: 128; # of shots: 30; index of run: 2
+Using device "cuda"
+Acc: 0.4905 F1-macro: 0.4129
+seed: 128; # of shots: 30; index of run: 3
+Using device "cuda"
+Acc: 0.4381 F1-macro: 0.4258
+seed: 128; # of shots: 30; index of run: 4
+Using device "cuda"
+Acc: 0.4 F1-macro: 0.3143
+seed: 128; # of shots: 30; index of run: 5
+Using device "cuda"
+Acc: 0.4952 F1-macro: 0.4035
+seed: 128; # of shots: 40; index of run: 1
+Using device "cuda"
+Acc: 0.4762 F1-macro: 0.3891
+seed: 128; # of shots: 40; index of run: 2
+Using device "cuda"
+Acc: 0.3714 F1-macro: 0.347
+seed: 128; # of shots: 40; index of run: 3
+Using device "cuda"
+Acc: 0.5048 F1-macro: 0.4093
+seed: 128; # of shots: 40; index of run: 4
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2757
+seed: 128; # of shots: 40; index of run: 5
+Using device "cuda"
+Acc: 0.481 F1-macro: 0.4003
+seed: 128; # of shots: 50; index of run: 1
+Using device "cuda"
+Acc: 0.5381 F1-macro: 0.5385
+seed: 128; # of shots: 50; index of run: 2
+Using device "cuda"
+Acc: 0.5095 F1-macro: 0.5103
+seed: 128; # of shots: 50; index of run: 3
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.2559
+seed: 128; # of shots: 50; index of run: 4
+Using device "cuda"
+Acc: 0.4762 F1-macro: 0.4012
+seed: 128; # of shots: 50; index of run: 5
+Using device "cuda"
+Acc: 0.4476 F1-macro: 0.4275
+seed: 128; # of shots: 100; index of run: 1
+Using device "cuda"
+Acc: 0.5238 F1-macro: 0.4832
+seed: 128; # of shots: 100; index of run: 2
+Using device "cuda"
+Acc: 0.3762 F1-macro: 0.3827
+seed: 128; # of shots: 100; index of run: 3
+Using device "cuda"
+Acc: 0.4857 F1-macro: 0.4805
+seed: 128; # of shots: 100; index of run: 4
+Using device "cuda"
+Acc: 0.4286 F1-macro: 0.4189
+seed: 128; # of shots: 100; index of run: 5
+Using device "cuda"
+Acc: 0.4571 F1-macro: 0.4384
+seed: 129; # of shots: 2; index of run: 1
+Using device "cuda"
+Acc: 0.3762 F1-macro: 0.2518
+seed: 129; # of shots: 2; index of run: 2
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1778
+seed: 129; # of shots: 2; index of run: 3
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2089
+seed: 129; # of shots: 2; index of run: 4
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1697
+seed: 129; # of shots: 2; index of run: 5
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.1943
+seed: 129; # of shots: 4; index of run: 1
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1849
+seed: 129; # of shots: 4; index of run: 2
+Using device "cuda"
+Acc: 0.4 F1-macro: 0.3235
+seed: 129; # of shots: 4; index of run: 3
+Using device "cuda"
+Acc: 0.2619 F1-macro: 0.1721
+seed: 129; # of shots: 4; index of run: 4
+Using device "cuda"
+Acc: 0.3571 F1-macro: 0.333
+seed: 129; # of shots: 4; index of run: 5
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1762
+seed: 129; # of shots: 6; index of run: 1
+Using device "cuda"
+Acc: 0.3667 F1-macro: 0.2314
+seed: 129; # of shots: 6; index of run: 2
+Using device "cuda"
+Acc: 0.3714 F1-macro: 0.2594
+seed: 129; # of shots: 6; index of run: 3
+Using device "cuda"
+Acc: 0.3714 F1-macro: 0.2397
+seed: 129; # of shots: 6; index of run: 4
+Using device "cuda"
+Acc: 0.2524 F1-macro: 0.1883
+seed: 129; # of shots: 6; index of run: 5
+Using device "cuda"
+Acc: 0.2429 F1-macro: 0.1318
+seed: 129; # of shots: 8; index of run: 1
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2136
+seed: 129; # of shots: 8; index of run: 2
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1779
+seed: 129; # of shots: 8; index of run: 3
+Using device "cuda"
+Acc: 0.3 F1-macro: 0.161
+seed: 129; # of shots: 8; index of run: 4
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1798
+seed: 129; # of shots: 8; index of run: 5
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2053
+seed: 129; # of shots: 10; index of run: 1
+Using device "cuda"
+Acc: 0.3048 F1-macro: 0.1563
+seed: 129; # of shots: 10; index of run: 2
+Using device "cuda"
+Acc: 0.3667 F1-macro: 0.2314
+seed: 129; # of shots: 10; index of run: 3
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1582
+seed: 129; # of shots: 10; index of run: 4
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2124
+seed: 129; # of shots: 10; index of run: 5
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2124
+seed: 129; # of shots: 20; index of run: 1
+Using device "cuda"
+Acc: 0.4476 F1-macro: 0.362
+seed: 129; # of shots: 20; index of run: 2
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.1669
+seed: 129; # of shots: 20; index of run: 3
+Using device "cuda"
+Acc: 0.3857 F1-macro: 0.2636
+seed: 129; # of shots: 20; index of run: 4
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.2314
+seed: 129; # of shots: 20; index of run: 5
+Using device "cuda"
+Acc: 0.4 F1-macro: 0.303
+seed: 129; # of shots: 30; index of run: 1
+Using device "cuda"
+Acc: 0.5238 F1-macro: 0.5084
+seed: 129; # of shots: 30; index of run: 2
+Using device "cuda"
+Acc: 0.4429 F1-macro: 0.3693
+seed: 129; # of shots: 30; index of run: 3
+Using device "cuda"
+Acc: 0.4143 F1-macro: 0.3411
+seed: 129; # of shots: 30; index of run: 4
+Using device "cuda"
+Acc: 0.419 F1-macro: 0.3287
+seed: 129; # of shots: 30; index of run: 5
+Using device "cuda"
+Acc: 0.4857 F1-macro: 0.4191
+seed: 129; # of shots: 40; index of run: 1
+Using device "cuda"
+Acc: 0.4952 F1-macro: 0.4101
+seed: 129; # of shots: 40; index of run: 2
+Using device "cuda"
+Acc: 0.3238 F1-macro: 0.2471
+seed: 129; # of shots: 40; index of run: 3
+Using device "cuda"
+Acc: 0.5857 F1-macro: 0.5853
+seed: 129; # of shots: 40; index of run: 4
+Using device "cuda"
+Acc: 0.2952 F1-macro: 0.2085
+seed: 129; # of shots: 40; index of run: 5
+Using device "cuda"
+Acc: 0.4429 F1-macro: 0.3539
+seed: 129; # of shots: 50; index of run: 1
+Using device "cuda"
+Acc: 0.3762 F1-macro: 0.2678
+seed: 129; # of shots: 50; index of run: 2
+Using device "cuda"
+Acc: 0.4857 F1-macro: 0.4167
+seed: 129; # of shots: 50; index of run: 3
+Using device "cuda"
+Acc: 0.5095 F1-macro: 0.4389
+seed: 129; # of shots: 50; index of run: 4
+Using device "cuda"
+Acc: 0.4143 F1-macro: 0.3483
+seed: 129; # of shots: 50; index of run: 5
+Using device "cuda"
+Acc: 0.3 F1-macro: 0.1957
+seed: 129; # of shots: 100; index of run: 1
+Using device "cuda"
+Acc: 0.5476 F1-macro: 0.55
+seed: 129; # of shots: 100; index of run: 2
+Using device "cuda"
+Acc: 0.4857 F1-macro: 0.4786
+seed: 129; # of shots: 100; index of run: 3
+Using device "cuda"
+Acc: 0.6238 F1-macro: 0.6093
+seed: 129; # of shots: 100; index of run: 4
+Using device "cuda"
+Acc: 0.4619 F1-macro: 0.4308
+seed: 129; # of shots: 100; index of run: 5
+Using device "cuda"
+Acc: 0.5095 F1-macro: 0.4737
+seed: 130; # of shots: 2; index of run: 1
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.16
+seed: 130; # of shots: 2; index of run: 2
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1983
+seed: 130; # of shots: 2; index of run: 3
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1959
+seed: 130; # of shots: 2; index of run: 4
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2212
+seed: 130; # of shots: 2; index of run: 5
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1959
+seed: 130; # of shots: 4; index of run: 1
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 4; index of run: 2
+Using device "cuda"
+Acc: 0.3762 F1-macro: 0.2565
+seed: 130; # of shots: 4; index of run: 3
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1673
+seed: 130; # of shots: 4; index of run: 4
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.187
+seed: 130; # of shots: 4; index of run: 5
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1691
+seed: 130; # of shots: 6; index of run: 1
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.1864
+seed: 130; # of shots: 6; index of run: 2
+Using device "cuda"
+Acc: 0.3571 F1-macro: 0.2171
+seed: 130; # of shots: 6; index of run: 3
+Using device "cuda"
+Acc: 0.2952 F1-macro: 0.152
+seed: 130; # of shots: 6; index of run: 4
+Using device "cuda"
+Acc: 0.319 F1-macro: 0.1613
+seed: 130; # of shots: 6; index of run: 5
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.1594
+seed: 130; # of shots: 8; index of run: 1
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.1864
+seed: 130; # of shots: 8; index of run: 2
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1667
+seed: 130; # of shots: 8; index of run: 3
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.1594
+seed: 130; # of shots: 8; index of run: 4
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1959
+seed: 130; # of shots: 8; index of run: 5
+Using device "cuda"
+Acc: 0.3952 F1-macro: 0.2874
+seed: 130; # of shots: 10; index of run: 1
+Using device "cuda"
+Acc: 0.2857 F1-macro: 0.1481
+seed: 130; # of shots: 10; index of run: 2
+Using device "cuda"
+Acc: 0.319 F1-macro: 0.1613
+seed: 130; # of shots: 10; index of run: 3
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1959
+seed: 130; # of shots: 10; index of run: 4
+Using device "cuda"
+Acc: 0.3 F1-macro: 0.1616
+seed: 130; # of shots: 10; index of run: 5
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1576
+seed: 130; # of shots: 20; index of run: 1
+Using device "cuda"
+Acc: 0.4476 F1-macro: 0.4018
+seed: 130; # of shots: 20; index of run: 2
+Using device "cuda"
+Acc: 0.4095 F1-macro: 0.3076
+seed: 130; # of shots: 20; index of run: 3
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1803
+seed: 130; # of shots: 20; index of run: 4
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1905
+seed: 130; # of shots: 20; index of run: 5
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1576
+seed: 130; # of shots: 30; index of run: 1
+Using device "cuda"
+Acc: 0.4143 F1-macro: 0.3365
+seed: 130; # of shots: 30; index of run: 2
+Using device "cuda"
+Acc: 0.3952 F1-macro: 0.4047
+seed: 130; # of shots: 30; index of run: 3
+Using device "cuda"
+Acc: 0.3905 F1-macro: 0.3236
+seed: 130; # of shots: 30; index of run: 4
+Using device "cuda"
+Acc: 0.319 F1-macro: 0.1613
+seed: 130; # of shots: 30; index of run: 5
+Using device "cuda"
+Acc: 0.3857 F1-macro: 0.2902
+seed: 130; # of shots: 40; index of run: 1
+Using device "cuda"
+Acc: 0.4714 F1-macro: 0.4611
+seed: 130; # of shots: 40; index of run: 2
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.2184
+seed: 130; # of shots: 40; index of run: 3
+Using device "cuda"
+Acc: 0.4857 F1-macro: 0.4217
+seed: 130; # of shots: 40; index of run: 4
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.16
+seed: 130; # of shots: 40; index of run: 5
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.217
+seed: 130; # of shots: 50; index of run: 1
+Using device "cuda"
+Acc: 0.5048 F1-macro: 0.4102
+seed: 130; # of shots: 50; index of run: 2
+Using device "cuda"
+Acc: 0.4238 F1-macro: 0.4143
+seed: 130; # of shots: 50; index of run: 3
+Using device "cuda"
+Acc: 0.4619 F1-macro: 0.3974
+seed: 130; # of shots: 50; index of run: 4
+Using device "cuda"
+Acc: 0.4762 F1-macro: 0.4744
+seed: 130; # of shots: 50; index of run: 5
+Using device "cuda"
+Acc: 0.4667 F1-macro: 0.4517
+seed: 130; # of shots: 100; index of run: 1
+Using device "cuda"
+Acc: 0.4619 F1-macro: 0.4695
+seed: 130; # of shots: 100; index of run: 2
+Using device "cuda"
+Acc: 0.5476 F1-macro: 0.5461
+seed: 130; # of shots: 100; index of run: 3
+Using device "cuda"
+Acc: 0.5524 F1-macro: 0.5511
+seed: 130; # of shots: 100; index of run: 4
+Using device "cuda"
+Acc: 0.481 F1-macro: 0.4521
+seed: 130; # of shots: 100; index of run: 5
+Using device "cuda"
+Acc: 0.5286 F1-macro: 0.53
+seed: 131; # of shots: 2; index of run: 1
+Using device "cuda"
+Acc: 0.319 F1-macro: 0.1613
+seed: 131; # of shots: 2; index of run: 2
+Using device "cuda"
+Acc: 0.3048 F1-macro: 0.1557
+seed: 131; # of shots: 2; index of run: 3
+Using device "cuda"
+Acc: 0.3619 F1-macro: 0.2229
+seed: 131; # of shots: 2; index of run: 4
+Using device "cuda"
+Acc: 0.319 F1-macro: 0.1613
+seed: 131; # of shots: 2; index of run: 5
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.1594
+seed: 131; # of shots: 4; index of run: 1
+Using device "cuda"
+Acc: 0.3619 F1-macro: 0.2283
+seed: 131; # of shots: 4; index of run: 2
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1685
+seed: 131; # of shots: 4; index of run: 3
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1923
+seed: 131; # of shots: 4; index of run: 4
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2051
+seed: 131; # of shots: 4; index of run: 5
+Using device "cuda"
+Acc: 0.3238 F1-macro: 0.1631
+seed: 131; # of shots: 6; index of run: 1
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1703
+seed: 131; # of shots: 6; index of run: 2
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1697
+seed: 131; # of shots: 6; index of run: 3
+Using device "cuda"
+Acc: 0.3571 F1-macro: 0.216
+seed: 131; # of shots: 6; index of run: 4
+Using device "cuda"
+Acc: 0.2143 F1-macro: 0.1526
+seed: 131; # of shots: 6; index of run: 5
+Using device "cuda"
+Acc: 0.2381 F1-macro: 0.1849
+seed: 131; # of shots: 8; index of run: 1
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2064
+seed: 131; # of shots: 8; index of run: 2
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.1882
+seed: 131; # of shots: 8; index of run: 3
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1685
+seed: 131; # of shots: 8; index of run: 4
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1673
+seed: 131; # of shots: 8; index of run: 5
+Using device "cuda"
+Acc: 0.3619 F1-macro: 0.2248
+seed: 131; # of shots: 10; index of run: 1
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.2099
+seed: 131; # of shots: 10; index of run: 2
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.1886
+seed: 131; # of shots: 10; index of run: 3
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.1876
+seed: 131; # of shots: 10; index of run: 4
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.2124
+seed: 131; # of shots: 10; index of run: 5
+Using device "cuda"
+Acc: 0.2524 F1-macro: 0.2042
+seed: 131; # of shots: 20; index of run: 1
+Using device "cuda"
+Acc: 0.4381 F1-macro: 0.3447
+seed: 131; # of shots: 20; index of run: 2
+Using device "cuda"
+Acc: 0.3857 F1-macro: 0.3062
+seed: 131; # of shots: 20; index of run: 3
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1965
+seed: 131; # of shots: 20; index of run: 4
+Using device "cuda"
+Acc: 0.319 F1-macro: 0.1613
+seed: 131; # of shots: 20; index of run: 5
+Using device "cuda"
+Acc: 0.3286 F1-macro: 0.1649
+seed: 131; # of shots: 30; index of run: 1
+Using device "cuda"
+Acc: 0.4619 F1-macro: 0.4466
+seed: 131; # of shots: 30; index of run: 2
+Using device "cuda"
+Acc: 0.4381 F1-macro: 0.3659
+seed: 131; # of shots: 30; index of run: 3
+Using device "cuda"
+Acc: 0.319 F1-macro: 0.2104
+seed: 131; # of shots: 30; index of run: 4
+Using device "cuda"
+Acc: 0.4095 F1-macro: 0.3996
+seed: 131; # of shots: 30; index of run: 5
+Using device "cuda"
+Acc: 0.3 F1-macro: 0.1662
+seed: 131; # of shots: 40; index of run: 1
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1726
+seed: 131; # of shots: 40; index of run: 2
+Using device "cuda"
+Acc: 0.3238 F1-macro: 0.2174
+seed: 131; # of shots: 40; index of run: 3
+Using device "cuda"
+Acc: 0.3857 F1-macro: 0.3143
+seed: 131; # of shots: 40; index of run: 4
+Using device "cuda"
+Acc: 0.381 F1-macro: 0.2912
+seed: 131; # of shots: 40; index of run: 5
+Using device "cuda"
+Acc: 0.4762 F1-macro: 0.4217
+seed: 131; # of shots: 50; index of run: 1
+Using device "cuda"
+Acc: 0.381 F1-macro: 0.3664
+seed: 131; # of shots: 50; index of run: 2
+Using device "cuda"
+Acc: 0.4286 F1-macro: 0.34
+seed: 131; # of shots: 50; index of run: 3
+Using device "cuda"
+Acc: 0.4333 F1-macro: 0.3494
+seed: 131; # of shots: 50; index of run: 4
+Using device "cuda"
+Acc: 0.5238 F1-macro: 0.5182
+seed: 131; # of shots: 50; index of run: 5
+Using device "cuda"
+Acc: 0.4905 F1-macro: 0.4189
+seed: 131; # of shots: 100; index of run: 1
+Using device "cuda"
+Acc: 0.4905 F1-macro: 0.4961
+seed: 131; # of shots: 100; index of run: 2
+Using device "cuda"
+Acc: 0.4952 F1-macro: 0.4857
+seed: 131; # of shots: 100; index of run: 3
+Using device "cuda"
+Acc: 0.5667 F1-macro: 0.5554
+seed: 131; # of shots: 100; index of run: 4
+Using device "cuda"
+Acc: 0.519 F1-macro: 0.5022
+seed: 131; # of shots: 100; index of run: 5
+Using device "cuda"
+Acc: 0.5286 F1-macro: 0.5066
+seed: 132; # of shots: 2; index of run: 1
+Using device "cuda"
+Acc: 0.3619 F1-macro: 0.2376
+seed: 132; # of shots: 2; index of run: 2
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2051
+seed: 132; # of shots: 2; index of run: 3
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2051
+seed: 132; # of shots: 2; index of run: 4
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1735
+seed: 132; # of shots: 2; index of run: 5
+Using device "cuda"
+Acc: 0.2048 F1-macro: 0.1514
+seed: 132; # of shots: 4; index of run: 1
+Using device "cuda"
+Acc: 0.4 F1-macro: 0.3075
+seed: 132; # of shots: 4; index of run: 2
+Using device "cuda"
+Acc: 0.319 F1-macro: 0.1613
+seed: 132; # of shots: 4; index of run: 3
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.1895
+seed: 132; # of shots: 4; index of run: 4
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1576
+seed: 132; # of shots: 4; index of run: 5
+Using device "cuda"
+Acc: 0.3571 F1-macro: 0.2141
+seed: 132; # of shots: 6; index of run: 1
+Using device "cuda"
+Acc: 0.3905 F1-macro: 0.2737
+seed: 132; # of shots: 6; index of run: 2
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1697
+seed: 132; # of shots: 6; index of run: 3
+Using device "cuda"
+Acc: 0.3429 F1-macro: 0.1864
+seed: 132; # of shots: 6; index of run: 4
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1673
+seed: 132; # of shots: 6; index of run: 5
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1576
+seed: 132; # of shots: 8; index of run: 1
+Using device "cuda"
+Acc: 0.3476 F1-macro: 0.1959
+seed: 132; # of shots: 8; index of run: 2
+Using device "cuda"
+Acc: 0.3095 F1-macro: 0.1576
+seed: 132; # of shots: 8; index of run: 3
+Using device "cuda"
+Acc: 0.3714 F1-macro: 0.2399
+seed: 132; # of shots: 8; index of run: 4
+Using device "cuda"
+Acc: 0.3667 F1-macro: 0.2315
+seed: 132; # of shots: 8; index of run: 5
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.1594
+seed: 132; # of shots: 10; index of run: 1
+Using device "cuda"
+Acc: 0.3524 F1-macro: 0.2051
+seed: 132; # of shots: 10; index of run: 2
+Using device "cuda"
+Acc: 0.3048 F1-macro: 0.2394
+seed: 132; # of shots: 10; index of run: 3
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1697
+seed: 132; # of shots: 10; index of run: 4
+Using device "cuda"
+Acc: 0.3333 F1-macro: 0.1667
+seed: 132; # of shots: 10; index of run: 5
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1785
+seed: 132; # of shots: 20; index of run: 1
+Using device "cuda"
+Acc: 0.3 F1-macro: 0.1538
+seed: 132; # of shots: 20; index of run: 2
+Using device "cuda"
+Acc: 0.3381 F1-macro: 0.1889
+seed: 132; # of shots: 20; index of run: 3
+Using device "cuda"
+Acc: 0.3238 F1-macro: 0.1631
+seed: 132; # of shots: 20; index of run: 4
+Using device "cuda"
+Acc: 0.3143 F1-macro: 0.1594
+seed: 132; # of shots: 20; index of run: 5
+Using device "cuda"
+Acc: 0.3762 F1-macro: 0.3376
+seed: 132; # of shots: 30; index of run: 1
+Using device "cuda"
+Acc: 0.4619 F1-macro: 0.3702
+seed: 132; # of shots: 30; index of run: 2
+Using device "cuda"
+Acc: 0.4286 F1-macro: 0.435
+seed: 132; # of shots: 30; index of run: 3
+Using device "cuda"
+Acc: 0.4476 F1-macro: 0.359
+seed: 132; # of shots: 30; index of run: 4
+Using device "cuda"
+Acc: 0.4238 F1-macro: 0.3418
+seed: 132; # of shots: 30; index of run: 5
+Using device "cuda"
+Acc: 0.419 F1-macro: 0.3382
+seed: 132; # of shots: 40; index of run: 1
+Using device "cuda"
+Acc: 0.3667 F1-macro: 0.29
+seed: 132; # of shots: 40; index of run: 2
+Using device "cuda"
+Acc: 0.5048 F1-macro: 0.5063
+seed: 132; # of shots: 40; index of run: 3
+Using device "cuda"
+Acc: 0.4381 F1-macro: 0.3634
+seed: 132; # of shots: 40; index of run: 4
+Using device "cuda"
+Acc: 0.4714 F1-macro: 0.3772
+seed: 132; # of shots: 40; index of run: 5
+Using device "cuda"
+Acc: 0.4524 F1-macro: 0.3613
+seed: 132; # of shots: 50; index of run: 1
+Using device "cuda"
+Acc: 0.4762 F1-macro: 0.4207
+seed: 132; # of shots: 50; index of run: 2
+Using device "cuda"
+Acc: 0.5 F1-macro: 0.4062
+seed: 132; # of shots: 50; index of run: 3
+Using device "cuda"
+Acc: 0.4667 F1-macro: 0.4063
+seed: 132; # of shots: 50; index of run: 4
+Using device "cuda"
+Acc: 0.5048 F1-macro: 0.4127
+seed: 132; # of shots: 50; index of run: 5
+Using device "cuda"
+Acc: 0.4762 F1-macro: 0.3889
+seed: 132; # of shots: 100; index of run: 1
+Using device "cuda"
+Acc: 0.5143 F1-macro: 0.5037
+seed: 132; # of shots: 100; index of run: 2
+Using device "cuda"
+Acc: 0.4905 F1-macro: 0.4799
+seed: 132; # of shots: 100; index of run: 3
+Using device "cuda"
+Acc: 0.4667 F1-macro: 0.4534
+seed: 132; # of shots: 100; index of run: 4
+Using device "cuda"
+Acc: 0.5238 F1-macro: 0.5271
+seed: 132; # of shots: 100; index of run: 5
+Using device "cuda"
+Acc: 0.5095 F1-macro: 0.5079
